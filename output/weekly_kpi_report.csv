@@ -1,0 +1,1579 @@
+business_unit,kpi_name,week,kpi_value,event_type,event_count
+Finance,Aged_Receivables,2024-12-30,50000.0,Audit,1.0
+Finance,Aged_Receivables,2024-12-30,50000.0,Outage,2.0
+Finance,Aged_Receivables,2025-01-06,47000.0,,
+Finance,Aged_Receivables,2025-01-13,45000.0,,
+Finance,Budget Variance,2024-01-01,165.46,Audit,1.0
+Finance,Budget Variance,2024-01-01,165.46,Incident,1.0
+Finance,Budget Variance,2024-01-01,165.46,Maintenance,2.0
+Finance,Budget Variance,2024-01-01,165.46,Outage,3.0
+Finance,Budget Variance,2024-01-08,334.36,Incident,1.0
+Finance,Budget Variance,2024-01-15,162.59,Incident,2.0
+Finance,Budget Variance,2024-01-15,162.59,Maintenance,1.0
+Finance,Budget Variance,2024-01-15,162.59,Outage,1.0
+Finance,Budget Variance,2024-01-22,347.83,,
+Finance,Budget Variance,2024-01-29,249.52,Incident,2.0
+Finance,Budget Variance,2024-01-29,249.52,Maintenance,3.0
+Finance,Budget Variance,2024-01-29,249.52,Outage,1.0
+Finance,Budget Variance,2024-02-05,467.47,Incident,3.0
+Finance,Budget Variance,2024-02-05,467.47,Maintenance,1.0
+Finance,Budget Variance,2024-02-05,467.47,Outage,1.0
+Finance,Budget Variance,2024-02-12,95.54,Audit,1.0
+Finance,Budget Variance,2024-02-12,95.54,Incident,2.0
+Finance,Budget Variance,2024-02-12,95.54,Maintenance,1.0
+Finance,Budget Variance,2024-02-12,95.54,Outage,1.0
+Finance,Budget Variance,2024-02-19,151.12,Maintenance,4.0
+Finance,Budget Variance,2024-02-19,151.12,Outage,1.0
+Finance,Budget Variance,2024-02-26,337.54,Audit,1.0
+Finance,Budget Variance,2024-02-26,337.54,Incident,2.0
+Finance,Budget Variance,2024-03-04,304.16,Audit,1.0
+Finance,Budget Variance,2024-03-04,304.16,Outage,1.0
+Finance,Budget Variance,2024-03-11,379.19,Audit,1.0
+Finance,Budget Variance,2024-03-11,379.19,Maintenance,2.0
+Finance,Budget Variance,2024-03-11,379.19,Outage,2.0
+Finance,Budget Variance,2024-03-18,206.03,Incident,2.0
+Finance,Budget Variance,2024-03-18,206.03,Outage,5.0
+Finance,Budget Variance,2024-03-25,360.43,Incident,1.0
+Finance,Budget Variance,2024-03-25,360.43,Maintenance,1.0
+Finance,Budget Variance,2024-04-01,108.3,Incident,1.0
+Finance,Budget Variance,2024-04-01,108.3,Outage,1.0
+Finance,Budget Variance,2024-04-08,387.4,Incident,1.0
+Finance,Budget Variance,2024-04-08,387.4,Maintenance,3.0
+Finance,Budget Variance,2024-04-15,128.95,Audit,2.0
+Finance,Budget Variance,2024-04-15,128.95,Incident,1.0
+Finance,Budget Variance,2024-04-22,341.09,Outage,1.0
+Finance,Budget Variance,2024-04-29,71.94,Audit,2.0
+Finance,Budget Variance,2024-04-29,71.94,Incident,3.0
+Finance,Budget Variance,2024-04-29,71.94,Outage,1.0
+Finance,Budget Variance,2024-05-06,401.09,Audit,3.0
+Finance,Budget Variance,2024-05-06,401.09,Incident,1.0
+Finance,Budget Variance,2024-05-06,401.09,Maintenance,2.0
+Finance,Budget Variance,2024-05-06,401.09,Outage,1.0
+Finance,Budget Variance,2024-05-13,83.6,Audit,1.0
+Finance,Budget Variance,2024-05-13,83.6,Outage,1.0
+Finance,Budget Variance,2024-05-20,109.24,Audit,1.0
+Finance,Budget Variance,2024-05-20,109.24,Outage,2.0
+Finance,Budget Variance,2024-05-27,399.12,Audit,1.0
+Finance,Budget Variance,2024-05-27,399.12,Incident,2.0
+Finance,Budget Variance,2024-05-27,399.12,Maintenance,1.0
+Finance,Budget Variance,2024-05-27,399.12,Outage,1.0
+Finance,Budget Variance,2024-06-03,359.66,Audit,1.0
+Finance,Budget Variance,2024-06-03,359.66,Outage,1.0
+Finance,Budget Variance,2024-06-10,77.68,Audit,1.0
+Finance,Budget Variance,2024-06-10,77.68,Incident,3.0
+Finance,Budget Variance,2024-06-10,77.68,Maintenance,2.0
+Finance,Budget Variance,2024-06-10,77.68,Outage,2.0
+Finance,Budget Variance,2024-06-17,346.7,Maintenance,1.0
+Finance,Budget Variance,2024-06-24,371.16,Audit,1.0
+Finance,Budget Variance,2024-06-24,371.16,Incident,2.0
+Finance,Budget Variance,2024-06-24,371.16,Outage,3.0
+Finance,Budget Variance,2024-07-01,189.77,Audit,1.0
+Finance,Budget Variance,2024-07-01,189.77,Incident,2.0
+Finance,Budget Variance,2024-07-01,189.77,Maintenance,1.0
+Finance,Budget Variance,2024-07-01,189.77,Outage,1.0
+Finance,Budget Variance,2024-07-08,142.96,Audit,1.0
+Finance,Budget Variance,2024-07-08,142.96,Incident,2.0
+Finance,Budget Variance,2024-07-08,142.96,Outage,1.0
+Finance,Budget Variance,2024-07-15,415.61,Incident,1.0
+Finance,Budget Variance,2024-07-15,415.61,Maintenance,1.0
+Finance,Budget Variance,2024-07-22,489.47,Maintenance,2.0
+Finance,Budget Variance,2024-07-29,327.4,Audit,2.0
+Finance,Budget Variance,2024-07-29,327.4,Maintenance,2.0
+Finance,Budget Variance,2024-08-05,331.35,Audit,2.0
+Finance,Budget Variance,2024-08-05,331.35,Incident,1.0
+Finance,Budget Variance,2024-08-05,331.35,Maintenance,1.0
+Finance,Budget Variance,2024-08-12,173.09,Audit,1.0
+Finance,Budget Variance,2024-08-12,173.09,Incident,1.0
+Finance,Budget Variance,2024-08-12,173.09,Maintenance,1.0
+Finance,Budget Variance,2024-08-12,173.09,Outage,1.0
+Finance,Budget Variance,2024-08-19,362.99,Audit,1.0
+Finance,Budget Variance,2024-08-19,362.99,Incident,1.0
+Finance,Budget Variance,2024-08-26,487.44,Audit,3.0
+Finance,Budget Variance,2024-09-02,353.04,Audit,1.0
+Finance,Budget Variance,2024-09-02,353.04,Incident,1.0
+Finance,Budget Variance,2024-09-02,353.04,Maintenance,1.0
+Finance,Budget Variance,2024-09-09,365.43,Audit,1.0
+Finance,Budget Variance,2024-09-16,57.27,Audit,2.0
+Finance,Budget Variance,2024-09-16,57.27,Incident,1.0
+Finance,Budget Variance,2024-09-23,409.12,Audit,2.0
+Finance,Budget Variance,2024-09-23,409.12,Outage,2.0
+Finance,Budget Variance,2024-09-30,151.73,Audit,2.0
+Finance,Budget Variance,2024-09-30,151.73,Incident,2.0
+Finance,Budget Variance,2024-09-30,151.73,Maintenance,2.0
+Finance,Budget Variance,2024-09-30,151.73,Outage,1.0
+Finance,Budget Variance,2024-10-07,424.37,Audit,1.0
+Finance,Budget Variance,2024-10-07,424.37,Maintenance,3.0
+Finance,Budget Variance,2024-10-07,424.37,Outage,1.0
+Finance,Budget Variance,2024-10-14,319.81,,
+Finance,Budget Variance,2024-10-21,390.91,Incident,1.0
+Finance,Budget Variance,2024-10-21,390.91,Maintenance,2.0
+Finance,Budget Variance,2024-10-28,298.35,Audit,1.0
+Finance,Budget Variance,2024-10-28,298.35,Maintenance,2.0
+Finance,Budget Variance,2024-11-04,240.59,Outage,1.0
+Finance,Budget Variance,2024-11-11,230.3,Audit,2.0
+Finance,Budget Variance,2024-11-11,230.3,Incident,2.0
+Finance,Budget Variance,2024-11-11,230.3,Outage,1.0
+Finance,Budget Variance,2024-11-18,414.52,Audit,1.0
+Finance,Budget Variance,2024-11-18,414.52,Incident,4.0
+Finance,Budget Variance,2024-11-25,237.12,Incident,1.0
+Finance,Budget Variance,2024-11-25,237.12,Maintenance,1.0
+Finance,Budget Variance,2024-11-25,237.12,Outage,1.0
+Finance,Budget Variance,2024-12-02,339.11,Audit,1.0
+Finance,Budget Variance,2024-12-02,339.11,Incident,2.0
+Finance,Budget Variance,2024-12-02,339.11,Maintenance,3.0
+Finance,Budget Variance,2024-12-09,132.7,Audit,1.0
+Finance,Budget Variance,2024-12-09,132.7,Maintenance,2.0
+Finance,Budget Variance,2024-12-09,132.7,Outage,3.0
+Finance,Budget Variance,2024-12-16,163.0,Audit,1.0
+Finance,Budget Variance,2024-12-16,163.0,Incident,3.0
+Finance,Budget Variance,2024-12-16,163.0,Maintenance,2.0
+Finance,Budget Variance,2024-12-16,163.0,Outage,2.0
+Finance,Budget Variance,2024-12-23,196.05,Audit,1.0
+Finance,Budget Variance,2024-12-23,196.05,Incident,3.0
+Finance,Cost,2024-01-01,239.19,Audit,1.0
+Finance,Cost,2024-01-01,239.19,Incident,1.0
+Finance,Cost,2024-01-01,239.19,Maintenance,2.0
+Finance,Cost,2024-01-01,239.19,Outage,3.0
+Finance,Cost,2024-01-08,451.64,Incident,1.0
+Finance,Cost,2024-01-15,245.0,Incident,2.0
+Finance,Cost,2024-01-15,245.0,Maintenance,1.0
+Finance,Cost,2024-01-15,245.0,Outage,1.0
+Finance,Cost,2024-01-22,259.87,,
+Finance,Cost,2024-01-29,221.38,Incident,2.0
+Finance,Cost,2024-01-29,221.38,Maintenance,3.0
+Finance,Cost,2024-01-29,221.38,Outage,1.0
+Finance,Cost,2024-02-05,310.14,Incident,3.0
+Finance,Cost,2024-02-05,310.14,Maintenance,1.0
+Finance,Cost,2024-02-05,310.14,Outage,1.0
+Finance,Cost,2024-02-12,121.99,Audit,1.0
+Finance,Cost,2024-02-12,121.99,Incident,2.0
+Finance,Cost,2024-02-12,121.99,Maintenance,1.0
+Finance,Cost,2024-02-12,121.99,Outage,1.0
+Finance,Cost,2024-02-19,80.44,Maintenance,4.0
+Finance,Cost,2024-02-19,80.44,Outage,1.0
+Finance,Cost,2024-02-26,372.27,Audit,1.0
+Finance,Cost,2024-02-26,372.27,Incident,2.0
+Finance,Cost,2024-03-04,196.96,Audit,1.0
+Finance,Cost,2024-03-04,196.96,Outage,1.0
+Finance,Cost,2024-03-11,349.3,Audit,1.0
+Finance,Cost,2024-03-11,349.3,Maintenance,2.0
+Finance,Cost,2024-03-11,349.3,Outage,2.0
+Finance,Cost,2024-03-18,325.8,Incident,2.0
+Finance,Cost,2024-03-18,325.8,Outage,5.0
+Finance,Cost,2024-03-25,63.39,Incident,1.0
+Finance,Cost,2024-03-25,63.39,Maintenance,1.0
+Finance,Cost,2024-04-01,342.29,Incident,1.0
+Finance,Cost,2024-04-01,342.29,Outage,1.0
+Finance,Cost,2024-04-08,345.91,Incident,1.0
+Finance,Cost,2024-04-08,345.91,Maintenance,3.0
+Finance,Cost,2024-04-15,286.02,Audit,2.0
+Finance,Cost,2024-04-15,286.02,Incident,1.0
+Finance,Cost,2024-04-22,186.05,Outage,1.0
+Finance,Cost,2024-04-29,280.15,Audit,2.0
+Finance,Cost,2024-04-29,280.15,Incident,3.0
+Finance,Cost,2024-04-29,280.15,Outage,1.0
+Finance,Cost,2024-05-06,170.02,Audit,3.0
+Finance,Cost,2024-05-06,170.02,Incident,1.0
+Finance,Cost,2024-05-06,170.02,Maintenance,2.0
+Finance,Cost,2024-05-06,170.02,Outage,1.0
+Finance,Cost,2024-05-13,265.86,Audit,1.0
+Finance,Cost,2024-05-13,265.86,Outage,1.0
+Finance,Cost,2024-05-20,463.17,Audit,1.0
+Finance,Cost,2024-05-20,463.17,Outage,2.0
+Finance,Cost,2024-05-27,124.89,Audit,1.0
+Finance,Cost,2024-05-27,124.89,Incident,2.0
+Finance,Cost,2024-05-27,124.89,Maintenance,1.0
+Finance,Cost,2024-05-27,124.89,Outage,1.0
+Finance,Cost,2024-06-03,141.45,Audit,1.0
+Finance,Cost,2024-06-03,141.45,Outage,1.0
+Finance,Cost,2024-06-10,373.79,Audit,1.0
+Finance,Cost,2024-06-10,373.79,Incident,3.0
+Finance,Cost,2024-06-10,373.79,Maintenance,2.0
+Finance,Cost,2024-06-10,373.79,Outage,2.0
+Finance,Cost,2024-06-17,411.08,Maintenance,1.0
+Finance,Cost,2024-06-24,144.22,Audit,1.0
+Finance,Cost,2024-06-24,144.22,Incident,2.0
+Finance,Cost,2024-06-24,144.22,Outage,3.0
+Finance,Cost,2024-07-01,454.13,Audit,1.0
+Finance,Cost,2024-07-01,454.13,Incident,2.0
+Finance,Cost,2024-07-01,454.13,Maintenance,1.0
+Finance,Cost,2024-07-01,454.13,Outage,1.0
+Finance,Cost,2024-07-08,224.1,Audit,1.0
+Finance,Cost,2024-07-08,224.1,Incident,2.0
+Finance,Cost,2024-07-08,224.1,Outage,1.0
+Finance,Cost,2024-07-15,321.43,Incident,1.0
+Finance,Cost,2024-07-15,321.43,Maintenance,1.0
+Finance,Cost,2024-07-22,170.04,Maintenance,2.0
+Finance,Cost,2024-07-29,443.52,Audit,2.0
+Finance,Cost,2024-07-29,443.52,Maintenance,2.0
+Finance,Cost,2024-08-05,282.49,Audit,2.0
+Finance,Cost,2024-08-05,282.49,Incident,1.0
+Finance,Cost,2024-08-05,282.49,Maintenance,1.0
+Finance,Cost,2024-08-12,412.86,Audit,1.0
+Finance,Cost,2024-08-12,412.86,Incident,1.0
+Finance,Cost,2024-08-12,412.86,Maintenance,1.0
+Finance,Cost,2024-08-12,412.86,Outage,1.0
+Finance,Cost,2024-08-19,367.23,Audit,1.0
+Finance,Cost,2024-08-19,367.23,Incident,1.0
+Finance,Cost,2024-08-26,330.58,Audit,3.0
+Finance,Cost,2024-09-02,411.4,Audit,1.0
+Finance,Cost,2024-09-02,411.4,Incident,1.0
+Finance,Cost,2024-09-02,411.4,Maintenance,1.0
+Finance,Cost,2024-09-09,96.14,Audit,1.0
+Finance,Cost,2024-09-16,407.89,Audit,2.0
+Finance,Cost,2024-09-16,407.89,Incident,1.0
+Finance,Cost,2024-09-23,306.5,Audit,2.0
+Finance,Cost,2024-09-23,306.5,Outage,2.0
+Finance,Cost,2024-09-30,236.87,Audit,2.0
+Finance,Cost,2024-09-30,236.87,Incident,2.0
+Finance,Cost,2024-09-30,236.87,Maintenance,2.0
+Finance,Cost,2024-09-30,236.87,Outage,1.0
+Finance,Cost,2024-10-07,93.63,Audit,1.0
+Finance,Cost,2024-10-07,93.63,Maintenance,3.0
+Finance,Cost,2024-10-07,93.63,Outage,1.0
+Finance,Cost,2024-10-14,326.2,,
+Finance,Cost,2024-10-21,85.04,Incident,1.0
+Finance,Cost,2024-10-21,85.04,Maintenance,2.0
+Finance,Cost,2024-10-28,455.32,Audit,1.0
+Finance,Cost,2024-10-28,455.32,Maintenance,2.0
+Finance,Cost,2024-11-04,56.84,Outage,1.0
+Finance,Cost,2024-11-11,175.23,Audit,2.0
+Finance,Cost,2024-11-11,175.23,Incident,2.0
+Finance,Cost,2024-11-11,175.23,Outage,1.0
+Finance,Cost,2024-11-18,150.05,Audit,1.0
+Finance,Cost,2024-11-18,150.05,Incident,4.0
+Finance,Cost,2024-11-25,499.97,Incident,1.0
+Finance,Cost,2024-11-25,499.97,Maintenance,1.0
+Finance,Cost,2024-11-25,499.97,Outage,1.0
+Finance,Cost,2024-12-02,159.71,Audit,1.0
+Finance,Cost,2024-12-02,159.71,Incident,2.0
+Finance,Cost,2024-12-02,159.71,Maintenance,3.0
+Finance,Cost,2024-12-09,153.97,Audit,1.0
+Finance,Cost,2024-12-09,153.97,Maintenance,2.0
+Finance,Cost,2024-12-09,153.97,Outage,3.0
+Finance,Cost,2024-12-16,225.95,Audit,1.0
+Finance,Cost,2024-12-16,225.95,Incident,3.0
+Finance,Cost,2024-12-16,225.95,Maintenance,2.0
+Finance,Cost,2024-12-16,225.95,Outage,2.0
+Finance,Cost,2024-12-23,212.23,Audit,1.0
+Finance,Cost,2024-12-23,212.23,Incident,3.0
+Finance,Profit Margin,2024-01-01,351.81,Audit,1.0
+Finance,Profit Margin,2024-01-01,351.81,Incident,1.0
+Finance,Profit Margin,2024-01-01,351.81,Maintenance,2.0
+Finance,Profit Margin,2024-01-01,351.81,Outage,3.0
+Finance,Profit Margin,2024-01-08,418.73,Incident,1.0
+Finance,Profit Margin,2024-01-15,140.23,Incident,2.0
+Finance,Profit Margin,2024-01-15,140.23,Maintenance,1.0
+Finance,Profit Margin,2024-01-15,140.23,Outage,1.0
+Finance,Profit Margin,2024-01-22,349.63,,
+Finance,Profit Margin,2024-01-29,499.72,Incident,2.0
+Finance,Profit Margin,2024-01-29,499.72,Maintenance,3.0
+Finance,Profit Margin,2024-01-29,499.72,Outage,1.0
+Finance,Profit Margin,2024-02-05,471.97,Incident,3.0
+Finance,Profit Margin,2024-02-05,471.97,Maintenance,1.0
+Finance,Profit Margin,2024-02-05,471.97,Outage,1.0
+Finance,Profit Margin,2024-02-12,161.64,Audit,1.0
+Finance,Profit Margin,2024-02-12,161.64,Incident,2.0
+Finance,Profit Margin,2024-02-12,161.64,Maintenance,1.0
+Finance,Profit Margin,2024-02-12,161.64,Outage,1.0
+Finance,Profit Margin,2024-02-19,124.28,Maintenance,4.0
+Finance,Profit Margin,2024-02-19,124.28,Outage,1.0
+Finance,Profit Margin,2024-02-26,295.41,Audit,1.0
+Finance,Profit Margin,2024-02-26,295.41,Incident,2.0
+Finance,Profit Margin,2024-03-04,269.28,Audit,1.0
+Finance,Profit Margin,2024-03-04,269.28,Outage,1.0
+Finance,Profit Margin,2024-03-11,255.82,Audit,1.0
+Finance,Profit Margin,2024-03-11,255.82,Maintenance,2.0
+Finance,Profit Margin,2024-03-11,255.82,Outage,2.0
+Finance,Profit Margin,2024-03-18,132.64,Incident,2.0
+Finance,Profit Margin,2024-03-18,132.64,Outage,5.0
+Finance,Profit Margin,2024-03-25,191.55,Incident,1.0
+Finance,Profit Margin,2024-03-25,191.55,Maintenance,1.0
+Finance,Profit Margin,2024-04-01,354.61,Incident,1.0
+Finance,Profit Margin,2024-04-01,354.61,Outage,1.0
+Finance,Profit Margin,2024-04-08,95.38,Incident,1.0
+Finance,Profit Margin,2024-04-08,95.38,Maintenance,3.0
+Finance,Profit Margin,2024-04-15,59.38,Audit,2.0
+Finance,Profit Margin,2024-04-15,59.38,Incident,1.0
+Finance,Profit Margin,2024-04-22,69.96,Outage,1.0
+Finance,Profit Margin,2024-04-29,397.01,Audit,2.0
+Finance,Profit Margin,2024-04-29,397.01,Incident,3.0
+Finance,Profit Margin,2024-04-29,397.01,Outage,1.0
+Finance,Profit Margin,2024-05-06,396.62,Audit,3.0
+Finance,Profit Margin,2024-05-06,396.62,Incident,1.0
+Finance,Profit Margin,2024-05-06,396.62,Maintenance,2.0
+Finance,Profit Margin,2024-05-06,396.62,Outage,1.0
+Finance,Profit Margin,2024-05-13,350.78,Audit,1.0
+Finance,Profit Margin,2024-05-13,350.78,Outage,1.0
+Finance,Profit Margin,2024-05-20,203.54,Audit,1.0
+Finance,Profit Margin,2024-05-20,203.54,Outage,2.0
+Finance,Profit Margin,2024-05-27,403.89,Audit,1.0
+Finance,Profit Margin,2024-05-27,403.89,Incident,2.0
+Finance,Profit Margin,2024-05-27,403.89,Maintenance,1.0
+Finance,Profit Margin,2024-05-27,403.89,Outage,1.0
+Finance,Profit Margin,2024-06-03,405.26,Audit,1.0
+Finance,Profit Margin,2024-06-03,405.26,Outage,1.0
+Finance,Profit Margin,2024-06-10,84.87,Audit,1.0
+Finance,Profit Margin,2024-06-10,84.87,Incident,3.0
+Finance,Profit Margin,2024-06-10,84.87,Maintenance,2.0
+Finance,Profit Margin,2024-06-10,84.87,Outage,2.0
+Finance,Profit Margin,2024-06-17,293.94,Maintenance,1.0
+Finance,Profit Margin,2024-06-24,400.33,Audit,1.0
+Finance,Profit Margin,2024-06-24,400.33,Incident,2.0
+Finance,Profit Margin,2024-06-24,400.33,Outage,3.0
+Finance,Profit Margin,2024-07-01,449.63,Audit,1.0
+Finance,Profit Margin,2024-07-01,449.63,Incident,2.0
+Finance,Profit Margin,2024-07-01,449.63,Maintenance,1.0
+Finance,Profit Margin,2024-07-01,449.63,Outage,1.0
+Finance,Profit Margin,2024-07-08,274.04,Audit,1.0
+Finance,Profit Margin,2024-07-08,274.04,Incident,2.0
+Finance,Profit Margin,2024-07-08,274.04,Outage,1.0
+Finance,Profit Margin,2024-07-15,163.42,Incident,1.0
+Finance,Profit Margin,2024-07-15,163.42,Maintenance,1.0
+Finance,Profit Margin,2024-07-22,198.44,Maintenance,2.0
+Finance,Profit Margin,2024-07-29,469.83,Audit,2.0
+Finance,Profit Margin,2024-07-29,469.83,Maintenance,2.0
+Finance,Profit Margin,2024-08-05,186.79,Audit,2.0
+Finance,Profit Margin,2024-08-05,186.79,Incident,1.0
+Finance,Profit Margin,2024-08-05,186.79,Maintenance,1.0
+Finance,Profit Margin,2024-08-12,185.25,Audit,1.0
+Finance,Profit Margin,2024-08-12,185.25,Incident,1.0
+Finance,Profit Margin,2024-08-12,185.25,Maintenance,1.0
+Finance,Profit Margin,2024-08-12,185.25,Outage,1.0
+Finance,Profit Margin,2024-08-19,242.44,Audit,1.0
+Finance,Profit Margin,2024-08-19,242.44,Incident,1.0
+Finance,Profit Margin,2024-08-26,311.12,Audit,3.0
+Finance,Profit Margin,2024-09-02,64.43,Audit,1.0
+Finance,Profit Margin,2024-09-02,64.43,Incident,1.0
+Finance,Profit Margin,2024-09-02,64.43,Maintenance,1.0
+Finance,Profit Margin,2024-09-09,190.64,Audit,1.0
+Finance,Profit Margin,2024-09-16,449.2,Audit,2.0
+Finance,Profit Margin,2024-09-16,449.2,Incident,1.0
+Finance,Profit Margin,2024-09-23,411.03,Audit,2.0
+Finance,Profit Margin,2024-09-23,411.03,Outage,2.0
+Finance,Profit Margin,2024-09-30,258.38,Audit,2.0
+Finance,Profit Margin,2024-09-30,258.38,Incident,2.0
+Finance,Profit Margin,2024-09-30,258.38,Maintenance,2.0
+Finance,Profit Margin,2024-09-30,258.38,Outage,1.0
+Finance,Profit Margin,2024-10-07,331.61,Audit,1.0
+Finance,Profit Margin,2024-10-07,331.61,Maintenance,3.0
+Finance,Profit Margin,2024-10-07,331.61,Outage,1.0
+Finance,Profit Margin,2024-10-14,125.57,,
+Finance,Profit Margin,2024-10-21,341.58,Incident,1.0
+Finance,Profit Margin,2024-10-21,341.58,Maintenance,2.0
+Finance,Profit Margin,2024-10-28,207.91,Audit,1.0
+Finance,Profit Margin,2024-10-28,207.91,Maintenance,2.0
+Finance,Profit Margin,2024-11-04,294.29,Outage,1.0
+Finance,Profit Margin,2024-11-11,181.8,Audit,2.0
+Finance,Profit Margin,2024-11-11,181.8,Incident,2.0
+Finance,Profit Margin,2024-11-11,181.8,Outage,1.0
+Finance,Profit Margin,2024-11-18,324.12,Audit,1.0
+Finance,Profit Margin,2024-11-18,324.12,Incident,4.0
+Finance,Profit Margin,2024-11-25,245.68,Incident,1.0
+Finance,Profit Margin,2024-11-25,245.68,Maintenance,1.0
+Finance,Profit Margin,2024-11-25,245.68,Outage,1.0
+Finance,Profit Margin,2024-12-02,494.84,Audit,1.0
+Finance,Profit Margin,2024-12-02,494.84,Incident,2.0
+Finance,Profit Margin,2024-12-02,494.84,Maintenance,3.0
+Finance,Profit Margin,2024-12-09,403.26,Audit,1.0
+Finance,Profit Margin,2024-12-09,403.26,Maintenance,2.0
+Finance,Profit Margin,2024-12-09,403.26,Outage,3.0
+Finance,Profit Margin,2024-12-16,464.27,Audit,1.0
+Finance,Profit Margin,2024-12-16,464.27,Incident,3.0
+Finance,Profit Margin,2024-12-16,464.27,Maintenance,2.0
+Finance,Profit Margin,2024-12-16,464.27,Outage,2.0
+Finance,Profit Margin,2024-12-23,429.77,Audit,1.0
+Finance,Profit Margin,2024-12-23,429.77,Incident,3.0
+IT Services,Incident Count,2024-01-01,312.99,Audit,1.0
+IT Services,Incident Count,2024-01-01,312.99,Outage,1.0
+IT Services,Incident Count,2024-01-08,455.62,Audit,2.0
+IT Services,Incident Count,2024-01-08,455.62,Outage,3.0
+IT Services,Incident Count,2024-01-15,159.27,Incident,1.0
+IT Services,Incident Count,2024-01-22,469.23,Maintenance,1.0
+IT Services,Incident Count,2024-01-22,469.23,Outage,3.0
+IT Services,Incident Count,2024-01-29,80.29,Audit,2.0
+IT Services,Incident Count,2024-01-29,80.29,Incident,1.0
+IT Services,Incident Count,2024-02-05,226.1,Audit,1.0
+IT Services,Incident Count,2024-02-05,226.1,Incident,2.0
+IT Services,Incident Count,2024-02-05,226.1,Outage,1.0
+IT Services,Incident Count,2024-02-12,84.58,Incident,1.0
+IT Services,Incident Count,2024-02-12,84.58,Outage,2.0
+IT Services,Incident Count,2024-02-19,434.57,Maintenance,2.0
+IT Services,Incident Count,2024-02-19,434.57,Outage,4.0
+IT Services,Incident Count,2024-02-26,51.49,Incident,2.0
+IT Services,Incident Count,2024-03-04,95.01,Audit,1.0
+IT Services,Incident Count,2024-03-04,95.01,Incident,1.0
+IT Services,Incident Count,2024-03-04,95.01,Maintenance,2.0
+IT Services,Incident Count,2024-03-04,95.01,Outage,1.0
+IT Services,Incident Count,2024-03-11,190.57,Incident,1.0
+IT Services,Incident Count,2024-03-11,190.57,Maintenance,2.0
+IT Services,Incident Count,2024-03-18,233.03,Audit,2.0
+IT Services,Incident Count,2024-03-18,233.03,Incident,2.0
+IT Services,Incident Count,2024-03-18,233.03,Maintenance,1.0
+IT Services,Incident Count,2024-03-25,333.44,Audit,2.0
+IT Services,Incident Count,2024-03-25,333.44,Outage,1.0
+IT Services,Incident Count,2024-04-01,438.68,,
+IT Services,Incident Count,2024-04-08,363.58,Outage,1.0
+IT Services,Incident Count,2024-04-15,276.1,Audit,1.0
+IT Services,Incident Count,2024-04-15,276.1,Outage,2.0
+IT Services,Incident Count,2024-04-22,302.87,Audit,1.0
+IT Services,Incident Count,2024-04-22,302.87,Incident,1.0
+IT Services,Incident Count,2024-04-22,302.87,Maintenance,1.0
+IT Services,Incident Count,2024-04-29,162.72,Incident,1.0
+IT Services,Incident Count,2024-05-06,470.68,Incident,1.0
+IT Services,Incident Count,2024-05-06,470.68,Outage,1.0
+IT Services,Incident Count,2024-05-13,250.36,Audit,1.0
+IT Services,Incident Count,2024-05-13,250.36,Maintenance,1.0
+IT Services,Incident Count,2024-05-13,250.36,Outage,1.0
+IT Services,Incident Count,2024-05-20,131.75,Audit,1.0
+IT Services,Incident Count,2024-05-20,131.75,Incident,2.0
+IT Services,Incident Count,2024-05-20,131.75,Maintenance,1.0
+IT Services,Incident Count,2024-05-27,307.51,Audit,1.0
+IT Services,Incident Count,2024-05-27,307.51,Maintenance,1.0
+IT Services,Incident Count,2024-06-03,106.52,Incident,3.0
+IT Services,Incident Count,2024-06-03,106.52,Outage,3.0
+IT Services,Incident Count,2024-06-10,76.79,Audit,2.0
+IT Services,Incident Count,2024-06-10,76.79,Maintenance,1.0
+IT Services,Incident Count,2024-06-10,76.79,Outage,2.0
+IT Services,Incident Count,2024-06-17,373.49,Incident,3.0
+IT Services,Incident Count,2024-06-17,373.49,Maintenance,1.0
+IT Services,Incident Count,2024-06-17,373.49,Outage,1.0
+IT Services,Incident Count,2024-06-24,226.58,Incident,1.0
+IT Services,Incident Count,2024-07-01,92.61,Audit,1.0
+IT Services,Incident Count,2024-07-01,92.61,Incident,2.0
+IT Services,Incident Count,2024-07-08,57.84,Audit,1.0
+IT Services,Incident Count,2024-07-08,57.84,Incident,1.0
+IT Services,Incident Count,2024-07-08,57.84,Outage,1.0
+IT Services,Incident Count,2024-07-15,74.25,Incident,1.0
+IT Services,Incident Count,2024-07-15,74.25,Maintenance,1.0
+IT Services,Incident Count,2024-07-15,74.25,Outage,1.0
+IT Services,Incident Count,2024-07-22,128.95,Audit,2.0
+IT Services,Incident Count,2024-07-22,128.95,Incident,4.0
+IT Services,Incident Count,2024-07-29,344.98,Maintenance,2.0
+IT Services,Incident Count,2024-07-29,344.98,Outage,2.0
+IT Services,Incident Count,2024-08-05,377.28,Incident,1.0
+IT Services,Incident Count,2024-08-12,443.03,Audit,1.0
+IT Services,Incident Count,2024-08-12,443.03,Maintenance,1.0
+IT Services,Incident Count,2024-08-19,78.53,Audit,3.0
+IT Services,Incident Count,2024-08-19,78.53,Incident,1.0
+IT Services,Incident Count,2024-08-19,78.53,Outage,1.0
+IT Services,Incident Count,2024-08-26,438.49,Audit,2.0
+IT Services,Incident Count,2024-08-26,438.49,Incident,2.0
+IT Services,Incident Count,2024-08-26,438.49,Maintenance,3.0
+IT Services,Incident Count,2024-08-26,438.49,Outage,2.0
+IT Services,Incident Count,2024-09-02,79.85,Audit,1.0
+IT Services,Incident Count,2024-09-02,79.85,Incident,2.0
+IT Services,Incident Count,2024-09-02,79.85,Maintenance,1.0
+IT Services,Incident Count,2024-09-02,79.85,Outage,2.0
+IT Services,Incident Count,2024-09-09,487.91,Incident,2.0
+IT Services,Incident Count,2024-09-09,487.91,Maintenance,1.0
+IT Services,Incident Count,2024-09-09,487.91,Outage,3.0
+IT Services,Incident Count,2024-09-16,455.69,Outage,2.0
+IT Services,Incident Count,2024-09-23,405.74,Audit,1.0
+IT Services,Incident Count,2024-09-23,405.74,Incident,1.0
+IT Services,Incident Count,2024-09-30,408.68,Audit,1.0
+IT Services,Incident Count,2024-09-30,408.68,Maintenance,3.0
+IT Services,Incident Count,2024-09-30,408.68,Outage,2.0
+IT Services,Incident Count,2024-10-07,496.95,Outage,1.0
+IT Services,Incident Count,2024-10-14,142.28,Audit,2.0
+IT Services,Incident Count,2024-10-14,142.28,Incident,1.0
+IT Services,Incident Count,2024-10-14,142.28,Maintenance,1.0
+IT Services,Incident Count,2024-10-14,142.28,Outage,2.0
+IT Services,Incident Count,2024-10-21,52.36,Audit,2.0
+IT Services,Incident Count,2024-10-21,52.36,Incident,1.0
+IT Services,Incident Count,2024-10-28,229.34,Incident,3.0
+IT Services,Incident Count,2024-10-28,229.34,Outage,1.0
+IT Services,Incident Count,2024-11-04,395.23,Audit,1.0
+IT Services,Incident Count,2024-11-04,395.23,Incident,1.0
+IT Services,Incident Count,2024-11-04,395.23,Outage,2.0
+IT Services,Incident Count,2024-11-11,192.89,Audit,2.0
+IT Services,Incident Count,2024-11-11,192.89,Outage,1.0
+IT Services,Incident Count,2024-11-18,149.9,Audit,3.0
+IT Services,Incident Count,2024-11-18,149.9,Incident,1.0
+IT Services,Incident Count,2024-11-18,149.9,Maintenance,1.0
+IT Services,Incident Count,2024-11-25,52.15,Audit,1.0
+IT Services,Incident Count,2024-11-25,52.15,Maintenance,1.0
+IT Services,Incident Count,2024-11-25,52.15,Outage,1.0
+IT Services,Incident Count,2024-12-02,121.57,Audit,2.0
+IT Services,Incident Count,2024-12-02,121.57,Incident,3.0
+IT Services,Incident Count,2024-12-09,301.16,Audit,1.0
+IT Services,Incident Count,2024-12-09,301.16,Maintenance,1.0
+IT Services,Incident Count,2024-12-09,301.16,Outage,1.0
+IT Services,Incident Count,2024-12-16,329.4,Audit,1.0
+IT Services,Incident Count,2024-12-16,329.4,Incident,2.0
+IT Services,Incident Count,2024-12-16,329.4,Maintenance,3.0
+IT Services,Incident Count,2024-12-16,329.4,Outage,2.0
+IT Services,Incident Count,2024-12-23,326.48,Audit,1.0
+IT Services,Incident Count,2024-12-23,326.48,Incident,2.0
+IT Services,Incident Count,2024-12-23,326.48,Maintenance,1.0
+IT Services,Incident Count,2024-12-23,326.48,Outage,2.0
+IT Services,Resolution Time,2024-01-01,212.09,Audit,1.0
+IT Services,Resolution Time,2024-01-01,212.09,Outage,1.0
+IT Services,Resolution Time,2024-01-08,466.91,Audit,2.0
+IT Services,Resolution Time,2024-01-08,466.91,Outage,3.0
+IT Services,Resolution Time,2024-01-15,259.28,Incident,1.0
+IT Services,Resolution Time,2024-01-22,179.47,Maintenance,1.0
+IT Services,Resolution Time,2024-01-22,179.47,Outage,3.0
+IT Services,Resolution Time,2024-01-29,305.82,Audit,2.0
+IT Services,Resolution Time,2024-01-29,305.82,Incident,1.0
+IT Services,Resolution Time,2024-02-05,293.62,Audit,1.0
+IT Services,Resolution Time,2024-02-05,293.62,Incident,2.0
+IT Services,Resolution Time,2024-02-05,293.62,Outage,1.0
+IT Services,Resolution Time,2024-02-12,63.07,Incident,1.0
+IT Services,Resolution Time,2024-02-12,63.07,Outage,2.0
+IT Services,Resolution Time,2024-02-19,78.36,Maintenance,2.0
+IT Services,Resolution Time,2024-02-19,78.36,Outage,4.0
+IT Services,Resolution Time,2024-02-26,327.38,Incident,2.0
+IT Services,Resolution Time,2024-03-04,258.84,Audit,1.0
+IT Services,Resolution Time,2024-03-04,258.84,Incident,1.0
+IT Services,Resolution Time,2024-03-04,258.84,Maintenance,2.0
+IT Services,Resolution Time,2024-03-04,258.84,Outage,1.0
+IT Services,Resolution Time,2024-03-11,331.33,Incident,1.0
+IT Services,Resolution Time,2024-03-11,331.33,Maintenance,2.0
+IT Services,Resolution Time,2024-03-18,259.52,Audit,2.0
+IT Services,Resolution Time,2024-03-18,259.52,Incident,2.0
+IT Services,Resolution Time,2024-03-18,259.52,Maintenance,1.0
+IT Services,Resolution Time,2024-03-25,238.21,Audit,2.0
+IT Services,Resolution Time,2024-03-25,238.21,Outage,1.0
+IT Services,Resolution Time,2024-04-01,392.03,,
+IT Services,Resolution Time,2024-04-08,397.65,Outage,1.0
+IT Services,Resolution Time,2024-04-15,333.65,Audit,1.0
+IT Services,Resolution Time,2024-04-15,333.65,Outage,2.0
+IT Services,Resolution Time,2024-04-22,373.22,Audit,1.0
+IT Services,Resolution Time,2024-04-22,373.22,Incident,1.0
+IT Services,Resolution Time,2024-04-22,373.22,Maintenance,1.0
+IT Services,Resolution Time,2024-04-29,268.56,Incident,1.0
+IT Services,Resolution Time,2024-05-06,459.98,Incident,1.0
+IT Services,Resolution Time,2024-05-06,459.98,Outage,1.0
+IT Services,Resolution Time,2024-05-13,348.62,Audit,1.0
+IT Services,Resolution Time,2024-05-13,348.62,Maintenance,1.0
+IT Services,Resolution Time,2024-05-13,348.62,Outage,1.0
+IT Services,Resolution Time,2024-05-20,109.44,Audit,1.0
+IT Services,Resolution Time,2024-05-20,109.44,Incident,2.0
+IT Services,Resolution Time,2024-05-20,109.44,Maintenance,1.0
+IT Services,Resolution Time,2024-05-27,83.05,Audit,1.0
+IT Services,Resolution Time,2024-05-27,83.05,Maintenance,1.0
+IT Services,Resolution Time,2024-06-03,199.98,Incident,3.0
+IT Services,Resolution Time,2024-06-03,199.98,Outage,3.0
+IT Services,Resolution Time,2024-06-10,497.57,Audit,2.0
+IT Services,Resolution Time,2024-06-10,497.57,Maintenance,1.0
+IT Services,Resolution Time,2024-06-10,497.57,Outage,2.0
+IT Services,Resolution Time,2024-06-17,338.03,Incident,3.0
+IT Services,Resolution Time,2024-06-17,338.03,Maintenance,1.0
+IT Services,Resolution Time,2024-06-17,338.03,Outage,1.0
+IT Services,Resolution Time,2024-06-24,421.0,Incident,1.0
+IT Services,Resolution Time,2024-07-01,420.93,Audit,1.0
+IT Services,Resolution Time,2024-07-01,420.93,Incident,2.0
+IT Services,Resolution Time,2024-07-08,227.17,Audit,1.0
+IT Services,Resolution Time,2024-07-08,227.17,Incident,1.0
+IT Services,Resolution Time,2024-07-08,227.17,Outage,1.0
+IT Services,Resolution Time,2024-07-15,211.8,Incident,1.0
+IT Services,Resolution Time,2024-07-15,211.8,Maintenance,1.0
+IT Services,Resolution Time,2024-07-15,211.8,Outage,1.0
+IT Services,Resolution Time,2024-07-22,335.98,Audit,2.0
+IT Services,Resolution Time,2024-07-22,335.98,Incident,4.0
+IT Services,Resolution Time,2024-07-29,351.14,Maintenance,2.0
+IT Services,Resolution Time,2024-07-29,351.14,Outage,2.0
+IT Services,Resolution Time,2024-08-05,72.37,Incident,1.0
+IT Services,Resolution Time,2024-08-12,293.12,Audit,1.0
+IT Services,Resolution Time,2024-08-12,293.12,Maintenance,1.0
+IT Services,Resolution Time,2024-08-19,169.28,Audit,3.0
+IT Services,Resolution Time,2024-08-19,169.28,Incident,1.0
+IT Services,Resolution Time,2024-08-19,169.28,Outage,1.0
+IT Services,Resolution Time,2024-08-26,490.97,Audit,2.0
+IT Services,Resolution Time,2024-08-26,490.97,Incident,2.0
+IT Services,Resolution Time,2024-08-26,490.97,Maintenance,3.0
+IT Services,Resolution Time,2024-08-26,490.97,Outage,2.0
+IT Services,Resolution Time,2024-09-02,298.47,Audit,1.0
+IT Services,Resolution Time,2024-09-02,298.47,Incident,2.0
+IT Services,Resolution Time,2024-09-02,298.47,Maintenance,1.0
+IT Services,Resolution Time,2024-09-02,298.47,Outage,2.0
+IT Services,Resolution Time,2024-09-09,468.48,Incident,2.0
+IT Services,Resolution Time,2024-09-09,468.48,Maintenance,1.0
+IT Services,Resolution Time,2024-09-09,468.48,Outage,3.0
+IT Services,Resolution Time,2024-09-16,89.73,Outage,2.0
+IT Services,Resolution Time,2024-09-23,340.91,Audit,1.0
+IT Services,Resolution Time,2024-09-23,340.91,Incident,1.0
+IT Services,Resolution Time,2024-09-30,351.56,Audit,1.0
+IT Services,Resolution Time,2024-09-30,351.56,Maintenance,3.0
+IT Services,Resolution Time,2024-09-30,351.56,Outage,2.0
+IT Services,Resolution Time,2024-10-07,408.82,Outage,1.0
+IT Services,Resolution Time,2024-10-14,63.23,Audit,2.0
+IT Services,Resolution Time,2024-10-14,63.23,Incident,1.0
+IT Services,Resolution Time,2024-10-14,63.23,Maintenance,1.0
+IT Services,Resolution Time,2024-10-14,63.23,Outage,2.0
+IT Services,Resolution Time,2024-10-21,93.78,Audit,2.0
+IT Services,Resolution Time,2024-10-21,93.78,Incident,1.0
+IT Services,Resolution Time,2024-10-28,434.89,Incident,3.0
+IT Services,Resolution Time,2024-10-28,434.89,Outage,1.0
+IT Services,Resolution Time,2024-11-04,462.05,Audit,1.0
+IT Services,Resolution Time,2024-11-04,462.05,Incident,1.0
+IT Services,Resolution Time,2024-11-04,462.05,Outage,2.0
+IT Services,Resolution Time,2024-11-11,92.27,Audit,2.0
+IT Services,Resolution Time,2024-11-11,92.27,Outage,1.0
+IT Services,Resolution Time,2024-11-18,124.9,Audit,3.0
+IT Services,Resolution Time,2024-11-18,124.9,Incident,1.0
+IT Services,Resolution Time,2024-11-18,124.9,Maintenance,1.0
+IT Services,Resolution Time,2024-11-25,168.48,Audit,1.0
+IT Services,Resolution Time,2024-11-25,168.48,Maintenance,1.0
+IT Services,Resolution Time,2024-11-25,168.48,Outage,1.0
+IT Services,Resolution Time,2024-12-02,66.91,Audit,2.0
+IT Services,Resolution Time,2024-12-02,66.91,Incident,3.0
+IT Services,Resolution Time,2024-12-09,184.94,Audit,1.0
+IT Services,Resolution Time,2024-12-09,184.94,Maintenance,1.0
+IT Services,Resolution Time,2024-12-09,184.94,Outage,1.0
+IT Services,Resolution Time,2024-12-16,346.57,Audit,1.0
+IT Services,Resolution Time,2024-12-16,346.57,Incident,2.0
+IT Services,Resolution Time,2024-12-16,346.57,Maintenance,3.0
+IT Services,Resolution Time,2024-12-16,346.57,Outage,2.0
+IT Services,Resolution Time,2024-12-23,321.56,Audit,1.0
+IT Services,Resolution Time,2024-12-23,321.56,Incident,2.0
+IT Services,Resolution Time,2024-12-23,321.56,Maintenance,1.0
+IT Services,Resolution Time,2024-12-23,321.56,Outage,2.0
+Operations,Downtime Hours,2024-01-01,234.56,Incident,2.0
+Operations,Downtime Hours,2024-01-01,234.56,Maintenance,1.0
+Operations,Downtime Hours,2024-01-01,234.56,Outage,1.0
+Operations,Downtime Hours,2024-01-08,276.49,Audit,1.0
+Operations,Downtime Hours,2024-01-08,276.49,Incident,1.0
+Operations,Downtime Hours,2024-01-08,276.49,Maintenance,3.0
+Operations,Downtime Hours,2024-01-08,276.49,Outage,1.0
+Operations,Downtime Hours,2024-01-15,99.87,Outage,1.0
+Operations,Downtime Hours,2024-01-22,466.04,Audit,1.0
+Operations,Downtime Hours,2024-01-22,466.04,Maintenance,2.0
+Operations,Downtime Hours,2024-01-22,466.04,Outage,1.0
+Operations,Downtime Hours,2024-01-29,97.53,Audit,1.0
+Operations,Downtime Hours,2024-01-29,97.53,Incident,2.0
+Operations,Downtime Hours,2024-01-29,97.53,Outage,2.0
+Operations,Downtime Hours,2024-02-05,364.31,Audit,1.0
+Operations,Downtime Hours,2024-02-05,364.31,Incident,1.0
+Operations,Downtime Hours,2024-02-05,364.31,Outage,4.0
+Operations,Downtime Hours,2024-02-12,464.61,Audit,1.0
+Operations,Downtime Hours,2024-02-12,464.61,Incident,1.0
+Operations,Downtime Hours,2024-02-19,82.41,Audit,1.0
+Operations,Downtime Hours,2024-02-19,82.41,Incident,1.0
+Operations,Downtime Hours,2024-02-19,82.41,Outage,2.0
+Operations,Downtime Hours,2024-02-26,167.34,Audit,2.0
+Operations,Downtime Hours,2024-02-26,167.34,Outage,2.0
+Operations,Downtime Hours,2024-03-04,61.65,Maintenance,1.0
+Operations,Downtime Hours,2024-03-11,153.14,,
+Operations,Downtime Hours,2024-03-18,249.26,Incident,3.0
+Operations,Downtime Hours,2024-03-18,249.26,Outage,1.0
+Operations,Downtime Hours,2024-03-25,235.8,Audit,1.0
+Operations,Downtime Hours,2024-03-25,235.8,Outage,1.0
+Operations,Downtime Hours,2024-04-01,124.52,,
+Operations,Downtime Hours,2024-04-08,195.89,Audit,2.0
+Operations,Downtime Hours,2024-04-08,195.89,Maintenance,1.0
+Operations,Downtime Hours,2024-04-08,195.89,Outage,2.0
+Operations,Downtime Hours,2024-04-15,70.99,Audit,1.0
+Operations,Downtime Hours,2024-04-15,70.99,Incident,2.0
+Operations,Downtime Hours,2024-04-22,455.01,Maintenance,1.0
+Operations,Downtime Hours,2024-04-22,455.01,Outage,2.0
+Operations,Downtime Hours,2024-04-29,469.54,Audit,1.0
+Operations,Downtime Hours,2024-04-29,469.54,Incident,2.0
+Operations,Downtime Hours,2024-04-29,469.54,Maintenance,1.0
+Operations,Downtime Hours,2024-05-06,493.42,Audit,2.0
+Operations,Downtime Hours,2024-05-06,493.42,Incident,1.0
+Operations,Downtime Hours,2024-05-06,493.42,Maintenance,1.0
+Operations,Downtime Hours,2024-05-06,493.42,Outage,1.0
+Operations,Downtime Hours,2024-05-13,181.63,Audit,2.0
+Operations,Downtime Hours,2024-05-13,181.63,Maintenance,2.0
+Operations,Downtime Hours,2024-05-20,90.24,Incident,1.0
+Operations,Downtime Hours,2024-05-20,90.24,Maintenance,1.0
+Operations,Downtime Hours,2024-05-20,90.24,Outage,1.0
+Operations,Downtime Hours,2024-05-27,172.2,Audit,1.0
+Operations,Downtime Hours,2024-05-27,172.2,Incident,2.0
+Operations,Downtime Hours,2024-05-27,172.2,Outage,2.0
+Operations,Downtime Hours,2024-06-03,230.71,Incident,2.0
+Operations,Downtime Hours,2024-06-03,230.71,Maintenance,2.0
+Operations,Downtime Hours,2024-06-10,276.5,Outage,2.0
+Operations,Downtime Hours,2024-06-17,127.69,Incident,3.0
+Operations,Downtime Hours,2024-06-17,127.69,Maintenance,3.0
+Operations,Downtime Hours,2024-06-17,127.69,Outage,4.0
+Operations,Downtime Hours,2024-06-24,335.93,Incident,1.0
+Operations,Downtime Hours,2024-06-24,335.93,Maintenance,2.0
+Operations,Downtime Hours,2024-07-01,416.53,Audit,3.0
+Operations,Downtime Hours,2024-07-01,416.53,Incident,1.0
+Operations,Downtime Hours,2024-07-01,416.53,Maintenance,3.0
+Operations,Downtime Hours,2024-07-08,362.58,Audit,1.0
+Operations,Downtime Hours,2024-07-08,362.58,Incident,1.0
+Operations,Downtime Hours,2024-07-08,362.58,Outage,2.0
+Operations,Downtime Hours,2024-07-15,234.3,Audit,1.0
+Operations,Downtime Hours,2024-07-15,234.3,Maintenance,1.0
+Operations,Downtime Hours,2024-07-15,234.3,Outage,3.0
+Operations,Downtime Hours,2024-07-22,103.39,Audit,1.0
+Operations,Downtime Hours,2024-07-22,103.39,Incident,2.0
+Operations,Downtime Hours,2024-07-22,103.39,Maintenance,2.0
+Operations,Downtime Hours,2024-07-29,237.69,Audit,1.0
+Operations,Downtime Hours,2024-07-29,237.69,Incident,1.0
+Operations,Downtime Hours,2024-07-29,237.69,Maintenance,1.0
+Operations,Downtime Hours,2024-07-29,237.69,Outage,2.0
+Operations,Downtime Hours,2024-08-05,394.75,Audit,1.0
+Operations,Downtime Hours,2024-08-05,394.75,Incident,1.0
+Operations,Downtime Hours,2024-08-05,394.75,Maintenance,1.0
+Operations,Downtime Hours,2024-08-12,386.14,Incident,1.0
+Operations,Downtime Hours,2024-08-19,465.17,,
+Operations,Downtime Hours,2024-08-26,344.8,Audit,1.0
+Operations,Downtime Hours,2024-08-26,344.8,Incident,2.0
+Operations,Downtime Hours,2024-08-26,344.8,Outage,2.0
+Operations,Downtime Hours,2024-09-02,112.47,Incident,1.0
+Operations,Downtime Hours,2024-09-02,112.47,Outage,4.0
+Operations,Downtime Hours,2024-09-09,245.48,Audit,1.0
+Operations,Downtime Hours,2024-09-09,245.48,Outage,2.0
+Operations,Downtime Hours,2024-09-16,293.82,Audit,2.0
+Operations,Downtime Hours,2024-09-16,293.82,Incident,1.0
+Operations,Downtime Hours,2024-09-16,293.82,Outage,1.0
+Operations,Downtime Hours,2024-09-23,466.09,Audit,1.0
+Operations,Downtime Hours,2024-09-23,466.09,Incident,1.0
+Operations,Downtime Hours,2024-09-23,466.09,Maintenance,3.0
+Operations,Downtime Hours,2024-09-23,466.09,Outage,1.0
+Operations,Downtime Hours,2024-09-30,239.7,Incident,1.0
+Operations,Downtime Hours,2024-09-30,239.7,Maintenance,1.0
+Operations,Downtime Hours,2024-10-07,157.15,Outage,2.0
+Operations,Downtime Hours,2024-10-14,455.77,Audit,2.0
+Operations,Downtime Hours,2024-10-14,455.77,Maintenance,1.0
+Operations,Downtime Hours,2024-10-14,455.77,Outage,1.0
+Operations,Downtime Hours,2024-10-21,103.61,Maintenance,2.0
+Operations,Downtime Hours,2024-10-21,103.61,Outage,3.0
+Operations,Downtime Hours,2024-10-28,96.86,Audit,1.0
+Operations,Downtime Hours,2024-11-04,168.33,Incident,1.0
+Operations,Downtime Hours,2024-11-04,168.33,Maintenance,1.0
+Operations,Downtime Hours,2024-11-11,322.37,Audit,1.0
+Operations,Downtime Hours,2024-11-11,322.37,Maintenance,1.0
+Operations,Downtime Hours,2024-11-11,322.37,Outage,1.0
+Operations,Downtime Hours,2024-11-18,410.22,Outage,3.0
+Operations,Downtime Hours,2024-11-25,267.12,,
+Operations,Downtime Hours,2024-12-02,269.69,Audit,1.0
+Operations,Downtime Hours,2024-12-02,269.69,Maintenance,4.0
+Operations,Downtime Hours,2024-12-02,269.69,Outage,2.0
+Operations,Downtime Hours,2024-12-09,345.4,Audit,2.0
+Operations,Downtime Hours,2024-12-09,345.4,Incident,1.0
+Operations,Downtime Hours,2024-12-09,345.4,Maintenance,2.0
+Operations,Downtime Hours,2024-12-16,367.73,,
+Operations,Downtime Hours,2024-12-23,241.95,Incident,3.0
+Operations,Downtime Hours,2024-12-23,241.95,Maintenance,2.0
+Operations,Downtime Hours,2024-12-23,241.95,Outage,2.0
+Operations,Downtime_Hours,2024-12-30,8.0,Machine_Downtime,1.0
+Operations,Downtime_Hours,2024-12-30,8.0,Outage,1.0
+Operations,Downtime_Hours,2025-01-06,6.0,Machine_Downtime,1.0
+Operations,Downtime_Hours,2025-01-06,6.0,Maintenance,1.0
+Operations,Downtime_Hours,2025-01-13,5.0,Machine_Downtime,1.0
+Operations,Throughput,2024-01-01,89.86,Incident,2.0
+Operations,Throughput,2024-01-01,89.86,Maintenance,1.0
+Operations,Throughput,2024-01-01,89.86,Outage,1.0
+Operations,Throughput,2024-01-08,255.22,Audit,1.0
+Operations,Throughput,2024-01-08,255.22,Incident,1.0
+Operations,Throughput,2024-01-08,255.22,Maintenance,3.0
+Operations,Throughput,2024-01-08,255.22,Outage,1.0
+Operations,Throughput,2024-01-15,153.83,Outage,1.0
+Operations,Throughput,2024-01-22,339.7,Audit,1.0
+Operations,Throughput,2024-01-22,339.7,Maintenance,2.0
+Operations,Throughput,2024-01-22,339.7,Outage,1.0
+Operations,Throughput,2024-01-29,111.29,Audit,1.0
+Operations,Throughput,2024-01-29,111.29,Incident,2.0
+Operations,Throughput,2024-01-29,111.29,Outage,2.0
+Operations,Throughput,2024-02-05,493.53,Audit,1.0
+Operations,Throughput,2024-02-05,493.53,Incident,1.0
+Operations,Throughput,2024-02-05,493.53,Outage,4.0
+Operations,Throughput,2024-02-12,103.52,Audit,1.0
+Operations,Throughput,2024-02-12,103.52,Incident,1.0
+Operations,Throughput,2024-02-19,125.5,Audit,1.0
+Operations,Throughput,2024-02-19,125.5,Incident,1.0
+Operations,Throughput,2024-02-19,125.5,Outage,2.0
+Operations,Throughput,2024-02-26,198.89,Audit,2.0
+Operations,Throughput,2024-02-26,198.89,Outage,2.0
+Operations,Throughput,2024-03-04,160.09,Maintenance,1.0
+Operations,Throughput,2024-03-11,379.15,,
+Operations,Throughput,2024-03-18,184.99,Incident,3.0
+Operations,Throughput,2024-03-18,184.99,Outage,1.0
+Operations,Throughput,2024-03-25,311.38,Audit,1.0
+Operations,Throughput,2024-03-25,311.38,Outage,1.0
+Operations,Throughput,2024-04-01,258.09,,
+Operations,Throughput,2024-04-08,481.48,Audit,2.0
+Operations,Throughput,2024-04-08,481.48,Maintenance,1.0
+Operations,Throughput,2024-04-08,481.48,Outage,2.0
+Operations,Throughput,2024-04-15,361.63,Audit,1.0
+Operations,Throughput,2024-04-15,361.63,Incident,2.0
+Operations,Throughput,2024-04-22,308.5,Maintenance,1.0
+Operations,Throughput,2024-04-22,308.5,Outage,2.0
+Operations,Throughput,2024-04-29,67.19,Audit,1.0
+Operations,Throughput,2024-04-29,67.19,Incident,2.0
+Operations,Throughput,2024-04-29,67.19,Maintenance,1.0
+Operations,Throughput,2024-05-06,81.65,Audit,2.0
+Operations,Throughput,2024-05-06,81.65,Incident,1.0
+Operations,Throughput,2024-05-06,81.65,Maintenance,1.0
+Operations,Throughput,2024-05-06,81.65,Outage,1.0
+Operations,Throughput,2024-05-13,79.97,Audit,2.0
+Operations,Throughput,2024-05-13,79.97,Maintenance,2.0
+Operations,Throughput,2024-05-20,59.55,Incident,1.0
+Operations,Throughput,2024-05-20,59.55,Maintenance,1.0
+Operations,Throughput,2024-05-20,59.55,Outage,1.0
+Operations,Throughput,2024-05-27,51.89,Audit,1.0
+Operations,Throughput,2024-05-27,51.89,Incident,2.0
+Operations,Throughput,2024-05-27,51.89,Outage,2.0
+Operations,Throughput,2024-06-03,473.62,Incident,2.0
+Operations,Throughput,2024-06-03,473.62,Maintenance,2.0
+Operations,Throughput,2024-06-10,101.26,Outage,2.0
+Operations,Throughput,2024-06-17,398.0,Incident,3.0
+Operations,Throughput,2024-06-17,398.0,Maintenance,3.0
+Operations,Throughput,2024-06-17,398.0,Outage,4.0
+Operations,Throughput,2024-06-24,399.9,Incident,1.0
+Operations,Throughput,2024-06-24,399.9,Maintenance,2.0
+Operations,Throughput,2024-07-01,82.19,Audit,3.0
+Operations,Throughput,2024-07-01,82.19,Incident,1.0
+Operations,Throughput,2024-07-01,82.19,Maintenance,3.0
+Operations,Throughput,2024-07-08,146.89,Audit,1.0
+Operations,Throughput,2024-07-08,146.89,Incident,1.0
+Operations,Throughput,2024-07-08,146.89,Outage,2.0
+Operations,Throughput,2024-07-15,118.61,Audit,1.0
+Operations,Throughput,2024-07-15,118.61,Maintenance,1.0
+Operations,Throughput,2024-07-15,118.61,Outage,3.0
+Operations,Throughput,2024-07-22,172.25,Audit,1.0
+Operations,Throughput,2024-07-22,172.25,Incident,2.0
+Operations,Throughput,2024-07-22,172.25,Maintenance,2.0
+Operations,Throughput,2024-07-29,276.97,Audit,1.0
+Operations,Throughput,2024-07-29,276.97,Incident,1.0
+Operations,Throughput,2024-07-29,276.97,Maintenance,1.0
+Operations,Throughput,2024-07-29,276.97,Outage,2.0
+Operations,Throughput,2024-08-05,138.37,Audit,1.0
+Operations,Throughput,2024-08-05,138.37,Incident,1.0
+Operations,Throughput,2024-08-05,138.37,Maintenance,1.0
+Operations,Throughput,2024-08-12,473.87,Incident,1.0
+Operations,Throughput,2024-08-19,139.32,,
+Operations,Throughput,2024-08-26,75.92,Audit,1.0
+Operations,Throughput,2024-08-26,75.92,Incident,2.0
+Operations,Throughput,2024-08-26,75.92,Outage,2.0
+Operations,Throughput,2024-09-02,64.55,Incident,1.0
+Operations,Throughput,2024-09-02,64.55,Outage,4.0
+Operations,Throughput,2024-09-09,319.44,Audit,1.0
+Operations,Throughput,2024-09-09,319.44,Outage,2.0
+Operations,Throughput,2024-09-16,325.26,Audit,2.0
+Operations,Throughput,2024-09-16,325.26,Incident,1.0
+Operations,Throughput,2024-09-16,325.26,Outage,1.0
+Operations,Throughput,2024-09-23,381.76,Audit,1.0
+Operations,Throughput,2024-09-23,381.76,Incident,1.0
+Operations,Throughput,2024-09-23,381.76,Maintenance,3.0
+Operations,Throughput,2024-09-23,381.76,Outage,1.0
+Operations,Throughput,2024-09-30,374.6,Incident,1.0
+Operations,Throughput,2024-09-30,374.6,Maintenance,1.0
+Operations,Throughput,2024-10-07,487.41,Outage,2.0
+Operations,Throughput,2024-10-14,63.44,Audit,2.0
+Operations,Throughput,2024-10-14,63.44,Maintenance,1.0
+Operations,Throughput,2024-10-14,63.44,Outage,1.0
+Operations,Throughput,2024-10-21,67.45,Maintenance,2.0
+Operations,Throughput,2024-10-21,67.45,Outage,3.0
+Operations,Throughput,2024-10-28,425.84,Audit,1.0
+Operations,Throughput,2024-11-04,409.89,Incident,1.0
+Operations,Throughput,2024-11-04,409.89,Maintenance,1.0
+Operations,Throughput,2024-11-11,134.96,Audit,1.0
+Operations,Throughput,2024-11-11,134.96,Maintenance,1.0
+Operations,Throughput,2024-11-11,134.96,Outage,1.0
+Operations,Throughput,2024-11-18,295.09,Outage,3.0
+Operations,Throughput,2024-11-25,259.13,,
+Operations,Throughput,2024-12-02,258.69,Audit,1.0
+Operations,Throughput,2024-12-02,258.69,Maintenance,4.0
+Operations,Throughput,2024-12-02,258.69,Outage,2.0
+Operations,Throughput,2024-12-09,492.66,Audit,2.0
+Operations,Throughput,2024-12-09,492.66,Incident,1.0
+Operations,Throughput,2024-12-09,492.66,Maintenance,2.0
+Operations,Throughput,2024-12-16,336.73,,
+Operations,Throughput,2024-12-23,344.26,Incident,3.0
+Operations,Throughput,2024-12-23,344.26,Maintenance,2.0
+Operations,Throughput,2024-12-23,344.26,Outage,2.0
+Sales,Customer Growth,2024-01-01,193.12,Audit,1.0
+Sales,Customer Growth,2024-01-01,193.12,Maintenance,1.0
+Sales,Customer Growth,2024-01-08,123.7,Incident,2.0
+Sales,Customer Growth,2024-01-08,123.7,Maintenance,1.0
+Sales,Customer Growth,2024-01-15,95.71,Incident,1.0
+Sales,Customer Growth,2024-01-15,95.71,Maintenance,2.0
+Sales,Customer Growth,2024-01-22,465.34,Audit,1.0
+Sales,Customer Growth,2024-01-22,465.34,Incident,3.0
+Sales,Customer Growth,2024-01-22,465.34,Maintenance,1.0
+Sales,Customer Growth,2024-01-22,465.34,Outage,1.0
+Sales,Customer Growth,2024-01-29,397.95,Audit,1.0
+Sales,Customer Growth,2024-01-29,397.95,Maintenance,1.0
+Sales,Customer Growth,2024-01-29,397.95,Outage,2.0
+Sales,Customer Growth,2024-02-05,85.35,Audit,2.0
+Sales,Customer Growth,2024-02-05,85.35,Incident,1.0
+Sales,Customer Growth,2024-02-05,85.35,Maintenance,2.0
+Sales,Customer Growth,2024-02-05,85.35,Outage,1.0
+Sales,Customer Growth,2024-02-12,212.32,Audit,2.0
+Sales,Customer Growth,2024-02-12,212.32,Maintenance,1.0
+Sales,Customer Growth,2024-02-12,212.32,Outage,1.0
+Sales,Customer Growth,2024-02-19,184.6,Incident,1.0
+Sales,Customer Growth,2024-02-26,324.37,Audit,1.0
+Sales,Customer Growth,2024-02-26,324.37,Incident,1.0
+Sales,Customer Growth,2024-03-04,496.96,Incident,1.0
+Sales,Customer Growth,2024-03-04,496.96,Maintenance,2.0
+Sales,Customer Growth,2024-03-11,133.87,Audit,2.0
+Sales,Customer Growth,2024-03-11,133.87,Incident,1.0
+Sales,Customer Growth,2024-03-11,133.87,Maintenance,1.0
+Sales,Customer Growth,2024-03-11,133.87,Outage,1.0
+Sales,Customer Growth,2024-03-18,163.56,Audit,3.0
+Sales,Customer Growth,2024-03-18,163.56,Incident,1.0
+Sales,Customer Growth,2024-03-18,163.56,Maintenance,1.0
+Sales,Customer Growth,2024-03-18,163.56,Outage,1.0
+Sales,Customer Growth,2024-03-25,70.65,Audit,1.0
+Sales,Customer Growth,2024-03-25,70.65,Incident,1.0
+Sales,Customer Growth,2024-03-25,70.65,Maintenance,1.0
+Sales,Customer Growth,2024-03-25,70.65,Outage,1.0
+Sales,Customer Growth,2024-04-01,269.16,Incident,2.0
+Sales,Customer Growth,2024-04-01,269.16,Maintenance,1.0
+Sales,Customer Growth,2024-04-01,269.16,Outage,2.0
+Sales,Customer Growth,2024-04-08,364.16,Outage,2.0
+Sales,Customer Growth,2024-04-15,401.18,Audit,1.0
+Sales,Customer Growth,2024-04-15,401.18,Maintenance,1.0
+Sales,Customer Growth,2024-04-22,137.75,Audit,1.0
+Sales,Customer Growth,2024-04-22,137.75,Incident,2.0
+Sales,Customer Growth,2024-04-22,137.75,Maintenance,3.0
+Sales,Customer Growth,2024-04-22,137.75,Outage,2.0
+Sales,Customer Growth,2024-04-29,410.08,Incident,1.0
+Sales,Customer Growth,2024-04-29,410.08,Outage,2.0
+Sales,Customer Growth,2024-05-06,289.31,Maintenance,1.0
+Sales,Customer Growth,2024-05-13,341.94,Audit,1.0
+Sales,Customer Growth,2024-05-13,341.94,Incident,1.0
+Sales,Customer Growth,2024-05-13,341.94,Maintenance,1.0
+Sales,Customer Growth,2024-05-20,123.9,Audit,2.0
+Sales,Customer Growth,2024-05-20,123.9,Maintenance,2.0
+Sales,Customer Growth,2024-05-20,123.9,Outage,1.0
+Sales,Customer Growth,2024-05-27,485.72,Audit,2.0
+Sales,Customer Growth,2024-06-03,229.12,Audit,2.0
+Sales,Customer Growth,2024-06-03,229.12,Incident,2.0
+Sales,Customer Growth,2024-06-03,229.12,Outage,1.0
+Sales,Customer Growth,2024-06-10,404.56,Audit,1.0
+Sales,Customer Growth,2024-06-10,404.56,Incident,2.0
+Sales,Customer Growth,2024-06-10,404.56,Outage,1.0
+Sales,Customer Growth,2024-06-17,273.5,Audit,2.0
+Sales,Customer Growth,2024-06-17,273.5,Incident,1.0
+Sales,Customer Growth,2024-06-17,273.5,Outage,1.0
+Sales,Customer Growth,2024-06-24,163.3,Audit,2.0
+Sales,Customer Growth,2024-06-24,163.3,Incident,1.0
+Sales,Customer Growth,2024-06-24,163.3,Maintenance,1.0
+Sales,Customer Growth,2024-07-01,477.05,Audit,2.0
+Sales,Customer Growth,2024-07-01,477.05,Incident,1.0
+Sales,Customer Growth,2024-07-01,477.05,Maintenance,1.0
+Sales,Customer Growth,2024-07-01,477.05,Outage,1.0
+Sales,Customer Growth,2024-07-08,145.87,Audit,3.0
+Sales,Customer Growth,2024-07-08,145.87,Incident,1.0
+Sales,Customer Growth,2024-07-08,145.87,Maintenance,1.0
+Sales,Customer Growth,2024-07-15,458.8,Audit,1.0
+Sales,Customer Growth,2024-07-15,458.8,Outage,2.0
+Sales,Customer Growth,2024-07-22,311.55,Maintenance,1.0
+Sales,Customer Growth,2024-07-22,311.55,Outage,2.0
+Sales,Customer Growth,2024-07-29,491.49,Incident,1.0
+Sales,Customer Growth,2024-07-29,491.49,Maintenance,1.0
+Sales,Customer Growth,2024-07-29,491.49,Outage,2.0
+Sales,Customer Growth,2024-08-05,139.65,Audit,1.0
+Sales,Customer Growth,2024-08-05,139.65,Incident,2.0
+Sales,Customer Growth,2024-08-05,139.65,Outage,1.0
+Sales,Customer Growth,2024-08-12,80.41,Audit,2.0
+Sales,Customer Growth,2024-08-12,80.41,Maintenance,1.0
+Sales,Customer Growth,2024-08-12,80.41,Outage,2.0
+Sales,Customer Growth,2024-08-19,78.77,Audit,2.0
+Sales,Customer Growth,2024-08-19,78.77,Incident,1.0
+Sales,Customer Growth,2024-08-19,78.77,Maintenance,3.0
+Sales,Customer Growth,2024-08-19,78.77,Outage,2.0
+Sales,Customer Growth,2024-08-26,304.58,Incident,1.0
+Sales,Customer Growth,2024-08-26,304.58,Maintenance,1.0
+Sales,Customer Growth,2024-08-26,304.58,Outage,5.0
+Sales,Customer Growth,2024-09-02,321.26,Incident,1.0
+Sales,Customer Growth,2024-09-02,321.26,Maintenance,1.0
+Sales,Customer Growth,2024-09-02,321.26,Outage,1.0
+Sales,Customer Growth,2024-09-09,315.84,Audit,2.0
+Sales,Customer Growth,2024-09-09,315.84,Incident,1.0
+Sales,Customer Growth,2024-09-09,315.84,Maintenance,1.0
+Sales,Customer Growth,2024-09-16,127.01,Audit,2.0
+Sales,Customer Growth,2024-09-16,127.01,Maintenance,1.0
+Sales,Customer Growth,2024-09-16,127.01,Outage,1.0
+Sales,Customer Growth,2024-09-23,130.01,Incident,1.0
+Sales,Customer Growth,2024-09-30,113.5,Audit,1.0
+Sales,Customer Growth,2024-09-30,113.5,Maintenance,1.0
+Sales,Customer Growth,2024-09-30,113.5,Outage,1.0
+Sales,Customer Growth,2024-10-07,241.37,Audit,1.0
+Sales,Customer Growth,2024-10-07,241.37,Incident,2.0
+Sales,Customer Growth,2024-10-07,241.37,Maintenance,2.0
+Sales,Customer Growth,2024-10-07,241.37,Outage,2.0
+Sales,Customer Growth,2024-10-14,184.1,Audit,2.0
+Sales,Customer Growth,2024-10-14,184.1,Maintenance,1.0
+Sales,Customer Growth,2024-10-14,184.1,Outage,2.0
+Sales,Customer Growth,2024-10-21,318.95,Incident,2.0
+Sales,Customer Growth,2024-10-28,245.68,Audit,1.0
+Sales,Customer Growth,2024-10-28,245.68,Incident,1.0
+Sales,Customer Growth,2024-10-28,245.68,Maintenance,2.0
+Sales,Customer Growth,2024-10-28,245.68,Outage,2.0
+Sales,Customer Growth,2024-11-04,484.24,Audit,2.0
+Sales,Customer Growth,2024-11-04,484.24,Incident,1.0
+Sales,Customer Growth,2024-11-04,484.24,Outage,1.0
+Sales,Customer Growth,2024-11-11,162.39,Audit,1.0
+Sales,Customer Growth,2024-11-11,162.39,Incident,1.0
+Sales,Customer Growth,2024-11-11,162.39,Outage,3.0
+Sales,Customer Growth,2024-11-18,333.74,Audit,1.0
+Sales,Customer Growth,2024-11-18,333.74,Incident,1.0
+Sales,Customer Growth,2024-11-25,496.71,Incident,1.0
+Sales,Customer Growth,2024-11-25,496.71,Maintenance,3.0
+Sales,Customer Growth,2024-11-25,496.71,Outage,3.0
+Sales,Customer Growth,2024-12-02,57.55,Maintenance,1.0
+Sales,Customer Growth,2024-12-09,275.28,Audit,1.0
+Sales,Customer Growth,2024-12-09,275.28,Incident,1.0
+Sales,Customer Growth,2024-12-09,275.28,Maintenance,1.0
+Sales,Customer Growth,2024-12-09,275.28,Outage,1.0
+Sales,Customer Growth,2024-12-16,123.55,Audit,2.0
+Sales,Customer Growth,2024-12-16,123.55,Incident,1.0
+Sales,Customer Growth,2024-12-16,123.55,Maintenance,1.0
+Sales,Customer Growth,2024-12-23,379.6,Audit,1.0
+Sales,Customer Growth,2024-12-23,379.6,Maintenance,1.0
+Sales,Revenue,2024-01-01,260.64,Audit,1.0
+Sales,Revenue,2024-01-01,260.64,Maintenance,1.0
+Sales,Revenue,2024-01-08,172.22,Incident,2.0
+Sales,Revenue,2024-01-08,172.22,Maintenance,1.0
+Sales,Revenue,2024-01-15,300.76,Incident,1.0
+Sales,Revenue,2024-01-15,300.76,Maintenance,2.0
+Sales,Revenue,2024-01-22,476.0,Audit,1.0
+Sales,Revenue,2024-01-22,476.0,Incident,3.0
+Sales,Revenue,2024-01-22,476.0,Maintenance,1.0
+Sales,Revenue,2024-01-22,476.0,Outage,1.0
+Sales,Revenue,2024-01-29,77.31,Audit,1.0
+Sales,Revenue,2024-01-29,77.31,Maintenance,1.0
+Sales,Revenue,2024-01-29,77.31,Outage,2.0
+Sales,Revenue,2024-02-05,82.59,Audit,2.0
+Sales,Revenue,2024-02-05,82.59,Incident,1.0
+Sales,Revenue,2024-02-05,82.59,Maintenance,2.0
+Sales,Revenue,2024-02-05,82.59,Outage,1.0
+Sales,Revenue,2024-02-12,149.48,Audit,2.0
+Sales,Revenue,2024-02-12,149.48,Maintenance,1.0
+Sales,Revenue,2024-02-12,149.48,Outage,1.0
+Sales,Revenue,2024-02-19,340.46,Incident,1.0
+Sales,Revenue,2024-02-26,258.35,Audit,1.0
+Sales,Revenue,2024-02-26,258.35,Incident,1.0
+Sales,Revenue,2024-03-04,353.35,Incident,1.0
+Sales,Revenue,2024-03-04,353.35,Maintenance,2.0
+Sales,Revenue,2024-03-11,376.5,Audit,2.0
+Sales,Revenue,2024-03-11,376.5,Incident,1.0
+Sales,Revenue,2024-03-11,376.5,Maintenance,1.0
+Sales,Revenue,2024-03-11,376.5,Outage,1.0
+Sales,Revenue,2024-03-18,145.76,Audit,3.0
+Sales,Revenue,2024-03-18,145.76,Incident,1.0
+Sales,Revenue,2024-03-18,145.76,Maintenance,1.0
+Sales,Revenue,2024-03-18,145.76,Outage,1.0
+Sales,Revenue,2024-03-25,347.2,Audit,1.0
+Sales,Revenue,2024-03-25,347.2,Incident,1.0
+Sales,Revenue,2024-03-25,347.2,Maintenance,1.0
+Sales,Revenue,2024-03-25,347.2,Outage,1.0
+Sales,Revenue,2024-04-01,59.51,Incident,2.0
+Sales,Revenue,2024-04-01,59.51,Maintenance,1.0
+Sales,Revenue,2024-04-01,59.51,Outage,2.0
+Sales,Revenue,2024-04-08,184.37,Outage,2.0
+Sales,Revenue,2024-04-15,228.14,Audit,1.0
+Sales,Revenue,2024-04-15,228.14,Maintenance,1.0
+Sales,Revenue,2024-04-22,407.45,Audit,1.0
+Sales,Revenue,2024-04-22,407.45,Incident,2.0
+Sales,Revenue,2024-04-22,407.45,Maintenance,3.0
+Sales,Revenue,2024-04-22,407.45,Outage,2.0
+Sales,Revenue,2024-04-29,119.96,Incident,1.0
+Sales,Revenue,2024-04-29,119.96,Outage,2.0
+Sales,Revenue,2024-05-06,356.41,Maintenance,1.0
+Sales,Revenue,2024-05-13,215.77,Audit,1.0
+Sales,Revenue,2024-05-13,215.77,Incident,1.0
+Sales,Revenue,2024-05-13,215.77,Maintenance,1.0
+Sales,Revenue,2024-05-20,126.1,Audit,2.0
+Sales,Revenue,2024-05-20,126.1,Maintenance,2.0
+Sales,Revenue,2024-05-20,126.1,Outage,1.0
+Sales,Revenue,2024-05-27,262.74,Audit,2.0
+Sales,Revenue,2024-06-03,85.96,Audit,2.0
+Sales,Revenue,2024-06-03,85.96,Incident,2.0
+Sales,Revenue,2024-06-03,85.96,Outage,1.0
+Sales,Revenue,2024-06-10,339.41,Audit,1.0
+Sales,Revenue,2024-06-10,339.41,Incident,2.0
+Sales,Revenue,2024-06-10,339.41,Outage,1.0
+Sales,Revenue,2024-06-17,366.28,Audit,2.0
+Sales,Revenue,2024-06-17,366.28,Incident,1.0
+Sales,Revenue,2024-06-17,366.28,Outage,1.0
+Sales,Revenue,2024-06-24,148.4,Audit,2.0
+Sales,Revenue,2024-06-24,148.4,Incident,1.0
+Sales,Revenue,2024-06-24,148.4,Maintenance,1.0
+Sales,Revenue,2024-07-01,499.0,Audit,2.0
+Sales,Revenue,2024-07-01,499.0,Incident,1.0
+Sales,Revenue,2024-07-01,499.0,Maintenance,1.0
+Sales,Revenue,2024-07-01,499.0,Outage,1.0
+Sales,Revenue,2024-07-08,81.21,Audit,3.0
+Sales,Revenue,2024-07-08,81.21,Incident,1.0
+Sales,Revenue,2024-07-08,81.21,Maintenance,1.0
+Sales,Revenue,2024-07-15,355.13,Audit,1.0
+Sales,Revenue,2024-07-15,355.13,Outage,2.0
+Sales,Revenue,2024-07-22,238.3,Maintenance,1.0
+Sales,Revenue,2024-07-22,238.3,Outage,2.0
+Sales,Revenue,2024-07-29,494.45,Incident,1.0
+Sales,Revenue,2024-07-29,494.45,Maintenance,1.0
+Sales,Revenue,2024-07-29,494.45,Outage,2.0
+Sales,Revenue,2024-08-05,214.7,Audit,1.0
+Sales,Revenue,2024-08-05,214.7,Incident,2.0
+Sales,Revenue,2024-08-05,214.7,Outage,1.0
+Sales,Revenue,2024-08-12,303.5,Audit,2.0
+Sales,Revenue,2024-08-12,303.5,Maintenance,1.0
+Sales,Revenue,2024-08-12,303.5,Outage,2.0
+Sales,Revenue,2024-08-19,64.38,Audit,2.0
+Sales,Revenue,2024-08-19,64.38,Incident,1.0
+Sales,Revenue,2024-08-19,64.38,Maintenance,3.0
+Sales,Revenue,2024-08-19,64.38,Outage,2.0
+Sales,Revenue,2024-08-26,485.51,Incident,1.0
+Sales,Revenue,2024-08-26,485.51,Maintenance,1.0
+Sales,Revenue,2024-08-26,485.51,Outage,5.0
+Sales,Revenue,2024-09-02,336.41,Incident,1.0
+Sales,Revenue,2024-09-02,336.41,Maintenance,1.0
+Sales,Revenue,2024-09-02,336.41,Outage,1.0
+Sales,Revenue,2024-09-09,59.26,Audit,2.0
+Sales,Revenue,2024-09-09,59.26,Incident,1.0
+Sales,Revenue,2024-09-09,59.26,Maintenance,1.0
+Sales,Revenue,2024-09-16,64.22,Audit,2.0
+Sales,Revenue,2024-09-16,64.22,Maintenance,1.0
+Sales,Revenue,2024-09-16,64.22,Outage,1.0
+Sales,Revenue,2024-09-23,466.73,Incident,1.0
+Sales,Revenue,2024-09-30,145.13,Audit,1.0
+Sales,Revenue,2024-09-30,145.13,Maintenance,1.0
+Sales,Revenue,2024-09-30,145.13,Outage,1.0
+Sales,Revenue,2024-10-07,439.67,Audit,1.0
+Sales,Revenue,2024-10-07,439.67,Incident,2.0
+Sales,Revenue,2024-10-07,439.67,Maintenance,2.0
+Sales,Revenue,2024-10-07,439.67,Outage,2.0
+Sales,Revenue,2024-10-14,97.08,Audit,2.0
+Sales,Revenue,2024-10-14,97.08,Maintenance,1.0
+Sales,Revenue,2024-10-14,97.08,Outage,2.0
+Sales,Revenue,2024-10-21,456.32,Incident,2.0
+Sales,Revenue,2024-10-28,469.9,Audit,1.0
+Sales,Revenue,2024-10-28,469.9,Incident,1.0
+Sales,Revenue,2024-10-28,469.9,Maintenance,2.0
+Sales,Revenue,2024-10-28,469.9,Outage,2.0
+Sales,Revenue,2024-11-04,159.6,Audit,2.0
+Sales,Revenue,2024-11-04,159.6,Incident,1.0
+Sales,Revenue,2024-11-04,159.6,Outage,1.0
+Sales,Revenue,2024-11-11,255.46,Audit,1.0
+Sales,Revenue,2024-11-11,255.46,Incident,1.0
+Sales,Revenue,2024-11-11,255.46,Outage,3.0
+Sales,Revenue,2024-11-18,80.18,Audit,1.0
+Sales,Revenue,2024-11-18,80.18,Incident,1.0
+Sales,Revenue,2024-11-25,146.44,Incident,1.0
+Sales,Revenue,2024-11-25,146.44,Maintenance,3.0
+Sales,Revenue,2024-11-25,146.44,Outage,3.0
+Sales,Revenue,2024-12-02,484.59,Maintenance,1.0
+Sales,Revenue,2024-12-09,219.35,Audit,1.0
+Sales,Revenue,2024-12-09,219.35,Incident,1.0
+Sales,Revenue,2024-12-09,219.35,Maintenance,1.0
+Sales,Revenue,2024-12-09,219.35,Outage,1.0
+Sales,Revenue,2024-12-16,485.07,Audit,2.0
+Sales,Revenue,2024-12-16,485.07,Incident,1.0
+Sales,Revenue,2024-12-16,485.07,Maintenance,1.0
+Sales,Revenue,2024-12-23,229.8,Audit,1.0
+Sales,Revenue,2024-12-23,229.8,Maintenance,1.0
+Sales,Revenue,2024-12-30,120000.0,Audit,1.0
+Sales,Revenue,2024-12-30,120000.0,Outage,1.0
+Sales,Revenue,2025-01-06,135000.0,,
+Sales,Revenue,2025-01-13,142000.0,,
+Sales,Units Sold,2024-01-01,410.49,Audit,1.0
+Sales,Units Sold,2024-01-01,410.49,Maintenance,1.0
+Sales,Units Sold,2024-01-08,272.97,Incident,2.0
+Sales,Units Sold,2024-01-08,272.97,Maintenance,1.0
+Sales,Units Sold,2024-01-15,133.79,Incident,1.0
+Sales,Units Sold,2024-01-15,133.79,Maintenance,2.0
+Sales,Units Sold,2024-01-22,225.39,Audit,1.0
+Sales,Units Sold,2024-01-22,225.39,Incident,3.0
+Sales,Units Sold,2024-01-22,225.39,Maintenance,1.0
+Sales,Units Sold,2024-01-22,225.39,Outage,1.0
+Sales,Units Sold,2024-01-29,267.49,Audit,1.0
+Sales,Units Sold,2024-01-29,267.49,Maintenance,1.0
+Sales,Units Sold,2024-01-29,267.49,Outage,2.0
+Sales,Units Sold,2024-02-05,350.06,Audit,2.0
+Sales,Units Sold,2024-02-05,350.06,Incident,1.0
+Sales,Units Sold,2024-02-05,350.06,Maintenance,2.0
+Sales,Units Sold,2024-02-05,350.06,Outage,1.0
+Sales,Units Sold,2024-02-12,419.66,Audit,2.0
+Sales,Units Sold,2024-02-12,419.66,Maintenance,1.0
+Sales,Units Sold,2024-02-12,419.66,Outage,1.0
+Sales,Units Sold,2024-02-19,235.21,Incident,1.0
+Sales,Units Sold,2024-02-26,273.79,Audit,1.0
+Sales,Units Sold,2024-02-26,273.79,Incident,1.0
+Sales,Units Sold,2024-03-04,149.17,Incident,1.0
+Sales,Units Sold,2024-03-04,149.17,Maintenance,2.0
+Sales,Units Sold,2024-03-11,57.96,Audit,2.0
+Sales,Units Sold,2024-03-11,57.96,Incident,1.0
+Sales,Units Sold,2024-03-11,57.96,Maintenance,1.0
+Sales,Units Sold,2024-03-11,57.96,Outage,1.0
+Sales,Units Sold,2024-03-18,172.19,Audit,3.0
+Sales,Units Sold,2024-03-18,172.19,Incident,1.0
+Sales,Units Sold,2024-03-18,172.19,Maintenance,1.0
+Sales,Units Sold,2024-03-18,172.19,Outage,1.0
+Sales,Units Sold,2024-03-25,145.7,Audit,1.0
+Sales,Units Sold,2024-03-25,145.7,Incident,1.0
+Sales,Units Sold,2024-03-25,145.7,Maintenance,1.0
+Sales,Units Sold,2024-03-25,145.7,Outage,1.0
+Sales,Units Sold,2024-04-01,151.97,Incident,2.0
+Sales,Units Sold,2024-04-01,151.97,Maintenance,1.0
+Sales,Units Sold,2024-04-01,151.97,Outage,2.0
+Sales,Units Sold,2024-04-08,376.22,Outage,2.0
+Sales,Units Sold,2024-04-15,57.77,Audit,1.0
+Sales,Units Sold,2024-04-15,57.77,Maintenance,1.0
+Sales,Units Sold,2024-04-22,108.23,Audit,1.0
+Sales,Units Sold,2024-04-22,108.23,Incident,2.0
+Sales,Units Sold,2024-04-22,108.23,Maintenance,3.0
+Sales,Units Sold,2024-04-22,108.23,Outage,2.0
+Sales,Units Sold,2024-04-29,272.5,Incident,1.0
+Sales,Units Sold,2024-04-29,272.5,Outage,2.0
+Sales,Units Sold,2024-05-06,322.96,Maintenance,1.0
+Sales,Units Sold,2024-05-13,413.69,Audit,1.0
+Sales,Units Sold,2024-05-13,413.69,Incident,1.0
+Sales,Units Sold,2024-05-13,413.69,Maintenance,1.0
+Sales,Units Sold,2024-05-20,126.73,Audit,2.0
+Sales,Units Sold,2024-05-20,126.73,Maintenance,2.0
+Sales,Units Sold,2024-05-20,126.73,Outage,1.0
+Sales,Units Sold,2024-05-27,492.43,Audit,2.0
+Sales,Units Sold,2024-06-03,216.47,Audit,2.0
+Sales,Units Sold,2024-06-03,216.47,Incident,2.0
+Sales,Units Sold,2024-06-03,216.47,Outage,1.0
+Sales,Units Sold,2024-06-10,339.96,Audit,1.0
+Sales,Units Sold,2024-06-10,339.96,Incident,2.0
+Sales,Units Sold,2024-06-10,339.96,Outage,1.0
+Sales,Units Sold,2024-06-17,474.7,Audit,2.0
+Sales,Units Sold,2024-06-17,474.7,Incident,1.0
+Sales,Units Sold,2024-06-17,474.7,Outage,1.0
+Sales,Units Sold,2024-06-24,442.07,Audit,2.0
+Sales,Units Sold,2024-06-24,442.07,Incident,1.0
+Sales,Units Sold,2024-06-24,442.07,Maintenance,1.0
+Sales,Units Sold,2024-07-01,428.38,Audit,2.0
+Sales,Units Sold,2024-07-01,428.38,Incident,1.0
+Sales,Units Sold,2024-07-01,428.38,Maintenance,1.0
+Sales,Units Sold,2024-07-01,428.38,Outage,1.0
+Sales,Units Sold,2024-07-08,140.89,Audit,3.0
+Sales,Units Sold,2024-07-08,140.89,Incident,1.0
+Sales,Units Sold,2024-07-08,140.89,Maintenance,1.0
+Sales,Units Sold,2024-07-15,75.11,Audit,1.0
+Sales,Units Sold,2024-07-15,75.11,Outage,2.0
+Sales,Units Sold,2024-07-22,337.55,Maintenance,1.0
+Sales,Units Sold,2024-07-22,337.55,Outage,2.0
+Sales,Units Sold,2024-07-29,343.6,Incident,1.0
+Sales,Units Sold,2024-07-29,343.6,Maintenance,1.0
+Sales,Units Sold,2024-07-29,343.6,Outage,2.0
+Sales,Units Sold,2024-08-05,410.99,Audit,1.0
+Sales,Units Sold,2024-08-05,410.99,Incident,2.0
+Sales,Units Sold,2024-08-05,410.99,Outage,1.0
+Sales,Units Sold,2024-08-12,182.12,Audit,2.0
+Sales,Units Sold,2024-08-12,182.12,Maintenance,1.0
+Sales,Units Sold,2024-08-12,182.12,Outage,2.0
+Sales,Units Sold,2024-08-19,475.61,Audit,2.0
+Sales,Units Sold,2024-08-19,475.61,Incident,1.0
+Sales,Units Sold,2024-08-19,475.61,Maintenance,3.0
+Sales,Units Sold,2024-08-19,475.61,Outage,2.0
+Sales,Units Sold,2024-08-26,286.13,Incident,1.0
+Sales,Units Sold,2024-08-26,286.13,Maintenance,1.0
+Sales,Units Sold,2024-08-26,286.13,Outage,5.0
+Sales,Units Sold,2024-09-02,432.94,Incident,1.0
+Sales,Units Sold,2024-09-02,432.94,Maintenance,1.0
+Sales,Units Sold,2024-09-02,432.94,Outage,1.0
+Sales,Units Sold,2024-09-09,182.16,Audit,2.0
+Sales,Units Sold,2024-09-09,182.16,Incident,1.0
+Sales,Units Sold,2024-09-09,182.16,Maintenance,1.0
+Sales,Units Sold,2024-09-16,66.77,Audit,2.0
+Sales,Units Sold,2024-09-16,66.77,Maintenance,1.0
+Sales,Units Sold,2024-09-16,66.77,Outage,1.0
+Sales,Units Sold,2024-09-23,413.66,Incident,1.0
+Sales,Units Sold,2024-09-30,300.33,Audit,1.0
+Sales,Units Sold,2024-09-30,300.33,Maintenance,1.0
+Sales,Units Sold,2024-09-30,300.33,Outage,1.0
+Sales,Units Sold,2024-10-07,116.2,Audit,1.0
+Sales,Units Sold,2024-10-07,116.2,Incident,2.0
+Sales,Units Sold,2024-10-07,116.2,Maintenance,2.0
+Sales,Units Sold,2024-10-07,116.2,Outage,2.0
+Sales,Units Sold,2024-10-14,361.24,Audit,2.0
+Sales,Units Sold,2024-10-14,361.24,Maintenance,1.0
+Sales,Units Sold,2024-10-14,361.24,Outage,2.0
+Sales,Units Sold,2024-10-21,266.91,Incident,2.0
+Sales,Units Sold,2024-10-28,253.65,Audit,1.0
+Sales,Units Sold,2024-10-28,253.65,Incident,1.0
+Sales,Units Sold,2024-10-28,253.65,Maintenance,2.0
+Sales,Units Sold,2024-10-28,253.65,Outage,2.0
+Sales,Units Sold,2024-11-04,444.54,Audit,2.0
+Sales,Units Sold,2024-11-04,444.54,Incident,1.0
+Sales,Units Sold,2024-11-04,444.54,Outage,1.0
+Sales,Units Sold,2024-11-11,368.08,Audit,1.0
+Sales,Units Sold,2024-11-11,368.08,Incident,1.0
+Sales,Units Sold,2024-11-11,368.08,Outage,3.0
+Sales,Units Sold,2024-11-18,93.14,Audit,1.0
+Sales,Units Sold,2024-11-18,93.14,Incident,1.0
+Sales,Units Sold,2024-11-25,322.81,Incident,1.0
+Sales,Units Sold,2024-11-25,322.81,Maintenance,3.0
+Sales,Units Sold,2024-11-25,322.81,Outage,3.0
+Sales,Units Sold,2024-12-02,305.46,Maintenance,1.0
+Sales,Units Sold,2024-12-09,256.11,Audit,1.0
+Sales,Units Sold,2024-12-09,256.11,Incident,1.0
+Sales,Units Sold,2024-12-09,256.11,Maintenance,1.0
+Sales,Units Sold,2024-12-09,256.11,Outage,1.0
+Sales,Units Sold,2024-12-16,300.25,Audit,2.0
+Sales,Units Sold,2024-12-16,300.25,Incident,1.0
+Sales,Units Sold,2024-12-16,300.25,Maintenance,1.0
+Sales,Units Sold,2024-12-23,311.75,Audit,1.0
+Sales,Units Sold,2024-12-23,311.75,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-01-01,273.45,Audit,1.0
+Supply Chain,Inventory Turnover,2024-01-01,273.45,Incident,1.0
+Supply Chain,Inventory Turnover,2024-01-01,273.45,Outage,3.0
+Supply Chain,Inventory Turnover,2024-01-08,134.63,Audit,1.0
+Supply Chain,Inventory Turnover,2024-01-08,134.63,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-01-08,134.63,Outage,1.0
+Supply Chain,Inventory Turnover,2024-01-15,98.01,Incident,1.0
+Supply Chain,Inventory Turnover,2024-01-15,98.01,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-01-15,98.01,Outage,1.0
+Supply Chain,Inventory Turnover,2024-01-22,228.22,Audit,2.0
+Supply Chain,Inventory Turnover,2024-01-22,228.22,Incident,1.0
+Supply Chain,Inventory Turnover,2024-01-22,228.22,Maintenance,2.0
+Supply Chain,Inventory Turnover,2024-01-22,228.22,Outage,3.0
+Supply Chain,Inventory Turnover,2024-01-29,92.02,Audit,2.0
+Supply Chain,Inventory Turnover,2024-01-29,92.02,Incident,1.0
+Supply Chain,Inventory Turnover,2024-02-05,77.51,Audit,1.0
+Supply Chain,Inventory Turnover,2024-02-05,77.51,Incident,2.0
+Supply Chain,Inventory Turnover,2024-02-05,77.51,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-02-05,77.51,Outage,2.0
+Supply Chain,Inventory Turnover,2024-02-12,333.56,Audit,4.0
+Supply Chain,Inventory Turnover,2024-02-12,333.56,Incident,2.0
+Supply Chain,Inventory Turnover,2024-02-12,333.56,Outage,1.0
+Supply Chain,Inventory Turnover,2024-02-19,493.18,Audit,2.0
+Supply Chain,Inventory Turnover,2024-02-19,493.18,Incident,1.0
+Supply Chain,Inventory Turnover,2024-02-19,493.18,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-02-19,493.18,Outage,2.0
+Supply Chain,Inventory Turnover,2024-02-26,136.7,Audit,1.0
+Supply Chain,Inventory Turnover,2024-02-26,136.7,Incident,2.0
+Supply Chain,Inventory Turnover,2024-02-26,136.7,Outage,3.0
+Supply Chain,Inventory Turnover,2024-03-04,263.66,Outage,1.0
+Supply Chain,Inventory Turnover,2024-03-11,85.53,Maintenance,2.0
+Supply Chain,Inventory Turnover,2024-03-11,85.53,Outage,1.0
+Supply Chain,Inventory Turnover,2024-03-18,408.67,Audit,1.0
+Supply Chain,Inventory Turnover,2024-03-18,408.67,Incident,1.0
+Supply Chain,Inventory Turnover,2024-03-18,408.67,Maintenance,2.0
+Supply Chain,Inventory Turnover,2024-03-18,408.67,Outage,2.0
+Supply Chain,Inventory Turnover,2024-03-25,256.1,Audit,3.0
+Supply Chain,Inventory Turnover,2024-03-25,256.1,Outage,3.0
+Supply Chain,Inventory Turnover,2024-04-01,224.73,Incident,2.0
+Supply Chain,Inventory Turnover,2024-04-01,224.73,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-04-08,415.91,Audit,1.0
+Supply Chain,Inventory Turnover,2024-04-08,415.91,Outage,1.0
+Supply Chain,Inventory Turnover,2024-04-15,394.58,Audit,1.0
+Supply Chain,Inventory Turnover,2024-04-15,394.58,Incident,1.0
+Supply Chain,Inventory Turnover,2024-04-15,394.58,Maintenance,2.0
+Supply Chain,Inventory Turnover,2024-04-15,394.58,Outage,4.0
+Supply Chain,Inventory Turnover,2024-04-22,314.46,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-04-29,393.08,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-04-29,393.08,Outage,3.0
+Supply Chain,Inventory Turnover,2024-05-06,285.17,Incident,2.0
+Supply Chain,Inventory Turnover,2024-05-06,285.17,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-05-06,285.17,Outage,1.0
+Supply Chain,Inventory Turnover,2024-05-13,152.52,Audit,1.0
+Supply Chain,Inventory Turnover,2024-05-13,152.52,Incident,1.0
+Supply Chain,Inventory Turnover,2024-05-13,152.52,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-05-20,128.58,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-05-20,128.58,Outage,2.0
+Supply Chain,Inventory Turnover,2024-05-27,188.38,Audit,1.0
+Supply Chain,Inventory Turnover,2024-05-27,188.38,Incident,1.0
+Supply Chain,Inventory Turnover,2024-05-27,188.38,Maintenance,2.0
+Supply Chain,Inventory Turnover,2024-05-27,188.38,Outage,2.0
+Supply Chain,Inventory Turnover,2024-06-03,372.59,Audit,3.0
+Supply Chain,Inventory Turnover,2024-06-10,460.7,Incident,1.0
+Supply Chain,Inventory Turnover,2024-06-10,460.7,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-06-10,460.7,Outage,1.0
+Supply Chain,Inventory Turnover,2024-06-17,107.19,Incident,2.0
+Supply Chain,Inventory Turnover,2024-06-24,142.0,,
+Supply Chain,Inventory Turnover,2024-07-01,254.81,Audit,1.0
+Supply Chain,Inventory Turnover,2024-07-01,254.81,Maintenance,4.0
+Supply Chain,Inventory Turnover,2024-07-08,157.57,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-07-08,157.57,Outage,2.0
+Supply Chain,Inventory Turnover,2024-07-15,60.47,Audit,1.0
+Supply Chain,Inventory Turnover,2024-07-15,60.47,Incident,1.0
+Supply Chain,Inventory Turnover,2024-07-15,60.47,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-07-15,60.47,Outage,1.0
+Supply Chain,Inventory Turnover,2024-07-22,69.71,Audit,5.0
+Supply Chain,Inventory Turnover,2024-07-22,69.71,Incident,1.0
+Supply Chain,Inventory Turnover,2024-07-29,422.46,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-07-29,422.46,Outage,2.0
+Supply Chain,Inventory Turnover,2024-08-05,106.33,Audit,1.0
+Supply Chain,Inventory Turnover,2024-08-05,106.33,Incident,2.0
+Supply Chain,Inventory Turnover,2024-08-05,106.33,Maintenance,2.0
+Supply Chain,Inventory Turnover,2024-08-12,470.3,Outage,1.0
+Supply Chain,Inventory Turnover,2024-08-19,97.92,Incident,1.0
+Supply Chain,Inventory Turnover,2024-08-19,97.92,Maintenance,3.0
+Supply Chain,Inventory Turnover,2024-08-19,97.92,Outage,1.0
+Supply Chain,Inventory Turnover,2024-08-26,465.92,Outage,1.0
+Supply Chain,Inventory Turnover,2024-09-02,309.1,Audit,2.0
+Supply Chain,Inventory Turnover,2024-09-02,309.1,Incident,1.0
+Supply Chain,Inventory Turnover,2024-09-02,309.1,Maintenance,5.0
+Supply Chain,Inventory Turnover,2024-09-02,309.1,Outage,1.0
+Supply Chain,Inventory Turnover,2024-09-09,422.17,Incident,2.0
+Supply Chain,Inventory Turnover,2024-09-09,422.17,Maintenance,2.0
+Supply Chain,Inventory Turnover,2024-09-09,422.17,Outage,2.0
+Supply Chain,Inventory Turnover,2024-09-16,450.05,Incident,1.0
+Supply Chain,Inventory Turnover,2024-09-16,450.05,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-09-23,376.75,Maintenance,3.0
+Supply Chain,Inventory Turnover,2024-09-23,376.75,Outage,1.0
+Supply Chain,Inventory Turnover,2024-09-30,329.21,Incident,1.0
+Supply Chain,Inventory Turnover,2024-09-30,329.21,Maintenance,2.0
+Supply Chain,Inventory Turnover,2024-09-30,329.21,Outage,1.0
+Supply Chain,Inventory Turnover,2024-10-07,315.32,Incident,1.0
+Supply Chain,Inventory Turnover,2024-10-07,315.32,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-10-14,116.76,Audit,1.0
+Supply Chain,Inventory Turnover,2024-10-14,116.76,Incident,1.0
+Supply Chain,Inventory Turnover,2024-10-14,116.76,Outage,1.0
+Supply Chain,Inventory Turnover,2024-10-21,447.21,Audit,2.0
+Supply Chain,Inventory Turnover,2024-10-21,447.21,Incident,2.0
+Supply Chain,Inventory Turnover,2024-10-21,447.21,Maintenance,2.0
+Supply Chain,Inventory Turnover,2024-10-28,442.13,Incident,1.0
+Supply Chain,Inventory Turnover,2024-10-28,442.13,Outage,2.0
+Supply Chain,Inventory Turnover,2024-11-04,130.34,Audit,1.0
+Supply Chain,Inventory Turnover,2024-11-04,130.34,Incident,1.0
+Supply Chain,Inventory Turnover,2024-11-04,130.34,Maintenance,2.0
+Supply Chain,Inventory Turnover,2024-11-04,130.34,Outage,1.0
+Supply Chain,Inventory Turnover,2024-11-11,469.39,Incident,2.0
+Supply Chain,Inventory Turnover,2024-11-11,469.39,Outage,1.0
+Supply Chain,Inventory Turnover,2024-11-18,94.1,Audit,1.0
+Supply Chain,Inventory Turnover,2024-11-18,94.1,Incident,2.0
+Supply Chain,Inventory Turnover,2024-11-18,94.1,Outage,1.0
+Supply Chain,Inventory Turnover,2024-11-25,475.89,Audit,3.0
+Supply Chain,Inventory Turnover,2024-11-25,475.89,Maintenance,2.0
+Supply Chain,Inventory Turnover,2024-12-02,371.33,Audit,1.0
+Supply Chain,Inventory Turnover,2024-12-02,371.33,Incident,1.0
+Supply Chain,Inventory Turnover,2024-12-02,371.33,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-12-02,371.33,Outage,1.0
+Supply Chain,Inventory Turnover,2024-12-09,118.62,Audit,1.0
+Supply Chain,Inventory Turnover,2024-12-09,118.62,Incident,1.0
+Supply Chain,Inventory Turnover,2024-12-09,118.62,Maintenance,2.0
+Supply Chain,Inventory Turnover,2024-12-09,118.62,Outage,2.0
+Supply Chain,Inventory Turnover,2024-12-16,332.11,Audit,1.0
+Supply Chain,Inventory Turnover,2024-12-16,332.11,Maintenance,1.0
+Supply Chain,Inventory Turnover,2024-12-23,193.12,Audit,2.0
+Supply Chain,Inventory Turnover,2024-12-23,193.12,Incident,1.0
+Supply Chain,Lead Time,2024-01-01,181.38,Audit,1.0
+Supply Chain,Lead Time,2024-01-01,181.38,Incident,1.0
+Supply Chain,Lead Time,2024-01-01,181.38,Outage,3.0
+Supply Chain,Lead Time,2024-01-08,290.06,Audit,1.0
+Supply Chain,Lead Time,2024-01-08,290.06,Maintenance,1.0
+Supply Chain,Lead Time,2024-01-08,290.06,Outage,1.0
+Supply Chain,Lead Time,2024-01-15,404.95,Incident,1.0
+Supply Chain,Lead Time,2024-01-15,404.95,Maintenance,1.0
+Supply Chain,Lead Time,2024-01-15,404.95,Outage,1.0
+Supply Chain,Lead Time,2024-01-22,273.08,Audit,2.0
+Supply Chain,Lead Time,2024-01-22,273.08,Incident,1.0
+Supply Chain,Lead Time,2024-01-22,273.08,Maintenance,2.0
+Supply Chain,Lead Time,2024-01-22,273.08,Outage,3.0
+Supply Chain,Lead Time,2024-01-29,372.15,Audit,2.0
+Supply Chain,Lead Time,2024-01-29,372.15,Incident,1.0
+Supply Chain,Lead Time,2024-02-05,240.82,Audit,1.0
+Supply Chain,Lead Time,2024-02-05,240.82,Incident,2.0
+Supply Chain,Lead Time,2024-02-05,240.82,Maintenance,1.0
+Supply Chain,Lead Time,2024-02-05,240.82,Outage,2.0
+Supply Chain,Lead Time,2024-02-12,418.28,Audit,4.0
+Supply Chain,Lead Time,2024-02-12,418.28,Incident,2.0
+Supply Chain,Lead Time,2024-02-12,418.28,Outage,1.0
+Supply Chain,Lead Time,2024-02-19,357.46,Audit,2.0
+Supply Chain,Lead Time,2024-02-19,357.46,Incident,1.0
+Supply Chain,Lead Time,2024-02-19,357.46,Maintenance,1.0
+Supply Chain,Lead Time,2024-02-19,357.46,Outage,2.0
+Supply Chain,Lead Time,2024-02-26,267.64,Audit,1.0
+Supply Chain,Lead Time,2024-02-26,267.64,Incident,2.0
+Supply Chain,Lead Time,2024-02-26,267.64,Outage,3.0
+Supply Chain,Lead Time,2024-03-04,389.92,Outage,1.0
+Supply Chain,Lead Time,2024-03-11,98.2,Maintenance,2.0
+Supply Chain,Lead Time,2024-03-11,98.2,Outage,1.0
+Supply Chain,Lead Time,2024-03-18,211.3,Audit,1.0
+Supply Chain,Lead Time,2024-03-18,211.3,Incident,1.0
+Supply Chain,Lead Time,2024-03-18,211.3,Maintenance,2.0
+Supply Chain,Lead Time,2024-03-18,211.3,Outage,2.0
+Supply Chain,Lead Time,2024-03-25,287.64,Audit,3.0
+Supply Chain,Lead Time,2024-03-25,287.64,Outage,3.0
+Supply Chain,Lead Time,2024-04-01,448.86,Incident,2.0
+Supply Chain,Lead Time,2024-04-01,448.86,Maintenance,1.0
+Supply Chain,Lead Time,2024-04-08,282.51,Audit,1.0
+Supply Chain,Lead Time,2024-04-08,282.51,Outage,1.0
+Supply Chain,Lead Time,2024-04-15,197.6,Audit,1.0
+Supply Chain,Lead Time,2024-04-15,197.6,Incident,1.0
+Supply Chain,Lead Time,2024-04-15,197.6,Maintenance,2.0
+Supply Chain,Lead Time,2024-04-15,197.6,Outage,4.0
+Supply Chain,Lead Time,2024-04-22,128.91,Maintenance,1.0
+Supply Chain,Lead Time,2024-04-29,230.34,Maintenance,1.0
+Supply Chain,Lead Time,2024-04-29,230.34,Outage,3.0
+Supply Chain,Lead Time,2024-05-06,158.33,Incident,2.0
+Supply Chain,Lead Time,2024-05-06,158.33,Maintenance,1.0
+Supply Chain,Lead Time,2024-05-06,158.33,Outage,1.0
+Supply Chain,Lead Time,2024-05-13,118.24,Audit,1.0
+Supply Chain,Lead Time,2024-05-13,118.24,Incident,1.0
+Supply Chain,Lead Time,2024-05-13,118.24,Maintenance,1.0
+Supply Chain,Lead Time,2024-05-20,271.89,Maintenance,1.0
+Supply Chain,Lead Time,2024-05-20,271.89,Outage,2.0
+Supply Chain,Lead Time,2024-05-27,418.75,Audit,1.0
+Supply Chain,Lead Time,2024-05-27,418.75,Incident,1.0
+Supply Chain,Lead Time,2024-05-27,418.75,Maintenance,2.0
+Supply Chain,Lead Time,2024-05-27,418.75,Outage,2.0
+Supply Chain,Lead Time,2024-06-03,232.4,Audit,3.0
+Supply Chain,Lead Time,2024-06-10,64.14,Incident,1.0
+Supply Chain,Lead Time,2024-06-10,64.14,Maintenance,1.0
+Supply Chain,Lead Time,2024-06-10,64.14,Outage,1.0
+Supply Chain,Lead Time,2024-06-17,344.27,Incident,2.0
+Supply Chain,Lead Time,2024-06-24,401.01,,
+Supply Chain,Lead Time,2024-07-01,334.26,Audit,1.0
+Supply Chain,Lead Time,2024-07-01,334.26,Maintenance,4.0
+Supply Chain,Lead Time,2024-07-08,452.78,Maintenance,1.0
+Supply Chain,Lead Time,2024-07-08,452.78,Outage,2.0
+Supply Chain,Lead Time,2024-07-15,150.65,Audit,1.0
+Supply Chain,Lead Time,2024-07-15,150.65,Incident,1.0
+Supply Chain,Lead Time,2024-07-15,150.65,Maintenance,1.0
+Supply Chain,Lead Time,2024-07-15,150.65,Outage,1.0
+Supply Chain,Lead Time,2024-07-22,91.77,Audit,5.0
+Supply Chain,Lead Time,2024-07-22,91.77,Incident,1.0
+Supply Chain,Lead Time,2024-07-29,478.34,Maintenance,1.0
+Supply Chain,Lead Time,2024-07-29,478.34,Outage,2.0
+Supply Chain,Lead Time,2024-08-05,244.23,Audit,1.0
+Supply Chain,Lead Time,2024-08-05,244.23,Incident,2.0
+Supply Chain,Lead Time,2024-08-05,244.23,Maintenance,2.0
+Supply Chain,Lead Time,2024-08-12,415.44,Outage,1.0
+Supply Chain,Lead Time,2024-08-19,284.26,Incident,1.0
+Supply Chain,Lead Time,2024-08-19,284.26,Maintenance,3.0
+Supply Chain,Lead Time,2024-08-19,284.26,Outage,1.0
+Supply Chain,Lead Time,2024-08-26,52.74,Outage,1.0
+Supply Chain,Lead Time,2024-09-02,377.32,Audit,2.0
+Supply Chain,Lead Time,2024-09-02,377.32,Incident,1.0
+Supply Chain,Lead Time,2024-09-02,377.32,Maintenance,5.0
+Supply Chain,Lead Time,2024-09-02,377.32,Outage,1.0
+Supply Chain,Lead Time,2024-09-09,176.7,Incident,2.0
+Supply Chain,Lead Time,2024-09-09,176.7,Maintenance,2.0
+Supply Chain,Lead Time,2024-09-09,176.7,Outage,2.0
+Supply Chain,Lead Time,2024-09-16,257.46,Incident,1.0
+Supply Chain,Lead Time,2024-09-16,257.46,Maintenance,1.0
+Supply Chain,Lead Time,2024-09-23,329.74,Maintenance,3.0
+Supply Chain,Lead Time,2024-09-23,329.74,Outage,1.0
+Supply Chain,Lead Time,2024-09-30,296.7,Incident,1.0
+Supply Chain,Lead Time,2024-09-30,296.7,Maintenance,2.0
+Supply Chain,Lead Time,2024-09-30,296.7,Outage,1.0
+Supply Chain,Lead Time,2024-10-07,247.52,Incident,1.0
+Supply Chain,Lead Time,2024-10-07,247.52,Maintenance,1.0
+Supply Chain,Lead Time,2024-10-14,163.6,Audit,1.0
+Supply Chain,Lead Time,2024-10-14,163.6,Incident,1.0
+Supply Chain,Lead Time,2024-10-14,163.6,Outage,1.0
+Supply Chain,Lead Time,2024-10-21,279.86,Audit,2.0
+Supply Chain,Lead Time,2024-10-21,279.86,Incident,2.0
+Supply Chain,Lead Time,2024-10-21,279.86,Maintenance,2.0
+Supply Chain,Lead Time,2024-10-28,184.44,Incident,1.0
+Supply Chain,Lead Time,2024-10-28,184.44,Outage,2.0
+Supply Chain,Lead Time,2024-11-04,240.52,Audit,1.0
+Supply Chain,Lead Time,2024-11-04,240.52,Incident,1.0
+Supply Chain,Lead Time,2024-11-04,240.52,Maintenance,2.0
+Supply Chain,Lead Time,2024-11-04,240.52,Outage,1.0
+Supply Chain,Lead Time,2024-11-11,470.88,Incident,2.0
+Supply Chain,Lead Time,2024-11-11,470.88,Outage,1.0
+Supply Chain,Lead Time,2024-11-18,431.76,Audit,1.0
+Supply Chain,Lead Time,2024-11-18,431.76,Incident,2.0
+Supply Chain,Lead Time,2024-11-18,431.76,Outage,1.0
+Supply Chain,Lead Time,2024-11-25,129.23,Audit,3.0
+Supply Chain,Lead Time,2024-11-25,129.23,Maintenance,2.0
+Supply Chain,Lead Time,2024-12-02,317.41,Audit,1.0
+Supply Chain,Lead Time,2024-12-02,317.41,Incident,1.0
+Supply Chain,Lead Time,2024-12-02,317.41,Maintenance,1.0
+Supply Chain,Lead Time,2024-12-02,317.41,Outage,1.0
+Supply Chain,Lead Time,2024-12-09,105.28,Audit,1.0
+Supply Chain,Lead Time,2024-12-09,105.28,Incident,1.0
+Supply Chain,Lead Time,2024-12-09,105.28,Maintenance,2.0
+Supply Chain,Lead Time,2024-12-09,105.28,Outage,2.0
+Supply Chain,Lead Time,2024-12-16,202.6,Audit,1.0
+Supply Chain,Lead Time,2024-12-16,202.6,Maintenance,1.0
+Supply Chain,Lead Time,2024-12-23,149.07,Audit,2.0
+Supply Chain,Lead Time,2024-12-23,149.07,Incident,1.0

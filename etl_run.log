@@ -1,0 +1,55 @@
+
+ETL Run started at 2026-01-14 00:50:42.355743
+Running etl/extract_postgres.py
+etl/extract_postgres.py completed successfully
+Running etl/extract_mongodb.py
+ERROR in etl/extract_mongodb.py
+C:\Users\SWEETY\AppData\Local\Python\pythoncore-3.14-64\python.exe: can't open file 'C:\\Users\\SWEETY\\OneDrive\\Documents\\etl-kpi-reporting\\etl\\extract_mongodb.py': [Errno 2] No such file or directory
+
+ETL Run completed
+
+ETL Run started at 2026-01-14 13:42:35.174338
+Running etl/extract_postgres.py
+etl/extract_postgres.py completed successfully
+Running etl/extract_mongodb.py
+etl/extract_mongodb.py completed successfully
+Running etl/transform_and_merge.py
+ERROR in etl/transform_and_merge.py
+Traceback (most recent call last):
+  File "C:\Users\SWEETY\OneDrive\Documents\etl-kpi-reporting\etl\transform_and_merge.py", line 8, in <module>
+    from extract_mongo import extract_mongo
+ModuleNotFoundError: No module named 'extract_mongo'
+
+ETL Run completed
+
+ETL Run started at 2026-01-14 13:46:17.237177
+Running etl/extract_postgres.py
+etl/extract_postgres.py completed successfully
+Running etl/extract_mongodb.py
+etl/extract_mongodb.py completed successfully
+Running etl/transform_and_merge.py
+ERROR in etl/transform_and_merge.py
+Traceback (most recent call last):
+  File "C:\Users\SWEETY\OneDrive\Documents\etl-kpi-reporting\etl\transform_and_merge.py", line 8, in <module>
+    from etl.extract_mongodb import extract_mongodb
+ImportError: cannot import name 'extract_mongodb' from 'etl.extract_mongodb' (C:\Users\SWEETY\OneDrive\Documents\etl-kpi-reporting\etl\extract_mongodb.py)
+
+ETL Run completed
+
+ETL Run started at 2026-01-14 13:48:13.691740
+Running etl/extract_postgres.py
+etl/extract_postgres.py completed successfully
+Running etl/extract_mongodb.py
+etl/extract_mongodb.py completed successfully
+Running etl/transform_and_merge.py
+etl/transform_and_merge.py completed successfully
+ETL Run completed
+
+ETL Run started at 2026-01-14 13:56:39.536192
+Running etl/extract_postgres.py
+etl/extract_postgres.py completed successfully
+Running etl/extract_mongodb.py
+etl/extract_mongodb.py completed successfully
+Running etl/transform_and_merge.py
+etl/transform_and_merge.py completed successfully
+ETL Run completed
