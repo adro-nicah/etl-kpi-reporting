@@ -53,3 +53,12 @@ etl/extract_mongodb.py completed successfully
 Running etl/transform_and_merge.py
 etl/transform_and_merge.py completed successfully
 ETL Run completed
+
+ETL Run started at 2026-01-14 22:47:26.339407
+Running etl/extract_postgres.py
+etl/extract_postgres.py completed successfully
+Running etl/extract_mongodb.py
+etl/extract_mongodb.py completed successfully
+Running etl/transform_and_merge.py
+etl/transform_and_merge.py completed successfully
+ETL Run completed
