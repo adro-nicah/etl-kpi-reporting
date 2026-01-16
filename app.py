@@ -1,178 +1,212 @@
 import base64
 import io
 import pandas as pd
-from dash import Dash, html, dcc, dash_table, Input, Output, State
+import dash
+from dash import dcc, html, Input, Output, State, dash_table
 import plotly.express as px
+from reportlab.platypus import SimpleDocTemplate, Paragraph
+from reportlab.lib.styles import getSampleStyleSheet
 
-# -----------------------------
+# ---------------------------------
 # App Initialization
-# -----------------------------
-app = Dash(__name__)
+# ---------------------------------
+app = dash.Dash(__name__)
 server = app.server
 
-# -----------------------------
-# Helper Functions
-# -----------------------------
-def parse_upload(contents, filename):
-    content_type, content_string = contents.split(",")
-    decoded = base64.b64decode(content_string)
-
-    if filename.endswith(".csv"):
-        df = pd.read_csv(io.StringIO(decoded.decode("utf-8")))
-    elif filename.endswith(".xlsx"):
-        df = pd.read_excel(io.BytesIO(decoded))
-    else:
-        return None
-
-    df.columns = df.columns.str.lower()
-    df["week"] = pd.to_datetime(df["week"])
-    return df
-
-
-def generate_insight_report(df):
-    top_bu = df.groupby("business_unit")["kpi_value"].sum().idxmax()
-    total_kpi = df["kpi_value"].sum()
-    avg_kpi = df["kpi_value"].mean()
-    total_events = df["event_count"].sum()
-
-    report = f"""
-BUSINESS KPI ANALYTICS REPORT
-
-Total KPI Value: {total_kpi:,.2f}
-Average KPI Value: {avg_kpi:,.2f}
-Total Logged Events: {total_events:,}
-
-KEY INSIGHTS:
-1. {top_bu} is the highest contributing business unit.
-2. KPI values show weekly volatility, suggesting operational sensitivity.
-3. Event spikes correlate with KPI fluctuations.
-4. KPI distribution indicates uneven performance across departments.
-
-CONCLUSION:
-This data supports proactive monitoring of operational KPIs
-and event-driven performance management.
-"""
-
-    with open("kpi_report.txt", "w") as f:
-        f.write(report)
-
-
-# -----------------------------
+# ---------------------------------
 # Layout
-# -----------------------------
+# ---------------------------------
 app.layout = html.Div(
     style={
-        "fontFamily": "Segoe UI",
-        "backgroundColor": "#0B1E3C",
+        "minHeight": "100vh",
         "padding": "20px",
-        "color": "white"
+        "background": "linear-gradient(135deg, #0f2027, #203a43, #2c5364)",
+        "color": "white",
+        "fontFamily": "Arial",
     },
     children=[
+
         html.H1(
-            "ETL PIPELINE FOR BUSINESS KPI REPORTING",
-            style={"textAlign": "center", "marginBottom": "30px"}
+            "ETL KPI REPORTING DASHBOARD",
+            style={"textAlign": "center"}
         ),
 
+        # ---------- Upload ----------
         dcc.Upload(
             id="upload-data",
-            children=html.Div(
-                ["Drag & Drop or ", html.A("Select CSV / Excel File")]
-            ),
+            children=html.Div(["Drag & Drop or ", html.B("Select CSV / Excel File")]),
             style={
                 "width": "100%",
                 "height": "60px",
                 "lineHeight": "60px",
-                "borderWidth": "1px",
-                "borderStyle": "dashed",
-                "borderRadius": "8px",
+                "border": "2px dashed #666",
+                "borderRadius": "5px",
                 "textAlign": "center",
-                "marginBottom": "20px",
-                "backgroundColor": "#102B5C"
+                "backgroundColor": "#ffffff",
+                "color": "#000000",
             },
             multiple=False,
         ),
 
         dcc.Store(id="stored-data"),
 
-        # KPI Cards
+        html.Br(),
+
+        # ---------- Filters ----------
         html.Div(
-            id="kpi-cards",
+            [
+                dcc.Dropdown(
+                    id="business-unit-filter",
+                    placeholder="Business Unit",
+                    multi=True,
+                    style={"color": "#000000"}
+                ),
+                dcc.Dropdown(
+                    id="kpi-filter",
+                    placeholder="KPI Name",
+                    multi=True,
+                    style={"color": "#000000"}
+                ),
+                dcc.Dropdown(
+                    id="week-filter",
+                    placeholder="Week",
+                    multi=True,
+                    style={"color": "#000000"}
+                ),
+            ],
             style={
                 "display": "grid",
-                "gridTemplateColumns": "repeat(4, 1fr)",
+                "gridTemplateColumns": "1fr 1fr 1fr",
+                "gap": "15px",
+            },
+        ),
+
+        html.Hr(),
+
+        # ---------- KPI Cards ----------
+        html.Div(
+            [
+                html.Div(id="total-kpi-card"),
+                html.Div(id="avg-kpi-card"),
+                html.Div(id="total-events-card"),
+            ],
+            style={
+                "display": "flex",
+                "justifyContent": "space-around",
+                "fontWeight": "bold",
+            },
+        ),
+
+        html.Hr(),
+
+        # ---------- Graphs ----------
+        html.Div(
+            [
+                dcc.Graph(id="kpi-trend"),
+                dcc.Graph(id="kpi-comparison"),
+                dcc.Graph(id="event-distribution"),
+                dcc.Graph(id="event-volume"),
+                dcc.Graph(id="kpi-event-scatter"),
+                dcc.Graph(id="kpi-matrix"),
+            ],
+            style={
+                "display": "grid",
+                "gridTemplateColumns": "1fr 1fr",
                 "gap": "20px",
-                "marginBottom": "30px"
-            }
+            },
         ),
 
-        # Filters
-        html.Div(
-            style={"display": "flex", "gap": "20px", "marginBottom": "20px"},
-            children=[
-                dcc.Dropdown(id="bu-filter", multi=True, placeholder="Business Unit"),
-                dcc.Dropdown(id="kpi-filter", multi=True, placeholder="KPI Name"),
-            ],
-        ),
+        html.Hr(),
 
-        # Charts
-        html.Div(
-            style={"display": "grid", "gridTemplateColumns": "1fr 1fr", "gap": "20px"},
-            children=[
-                dcc.Graph(id="line-chart"),
-                dcc.Graph(id="donut-chart"),
-                dcc.Graph(id="bar-chart"),
-                dcc.Graph(id="area-chart"),
-            ],
-        ),
-
-        html.H3("Detailed KPI Table", style={"marginTop": "30px"}),
+        # ---------- Table ----------
+        html.H3("Analytical Data Table"),
         dash_table.DataTable(
-            id="kpi-table",
+            id="data-table",
             page_size=10,
             style_table={"overflowX": "auto"},
-            style_header={"backgroundColor": "#1E3A70", "color": "white"},
-            style_cell={"backgroundColor": "#102B5C", "color": "white"},
+            style_cell={
+                "textAlign": "left",
+                "color": "#000000",
+                "backgroundColor": "#ffffff",
+            },
         ),
 
         html.Br(),
-        html.Button("Generate & Download Report", id="report-btn"),
-        html.Div(id="report-status"),
+
+        html.Button("Download PDF Report", id="pdf-btn"),
+        dcc.Download(id="pdf-download"),
     ],
 )
 
+# ---------------------------------
+# Utilities
+# ---------------------------------
+def parse_contents(contents, filename):
+    content_type, content_string = contents.split(",")
+    decoded = base64.b64decode(content_string)
 
-# -----------------------------
-# Callbacks
-# -----------------------------
+    if filename.endswith(".csv"):
+        return pd.read_csv(io.StringIO(decoded.decode("utf-8")))
+    else:
+        return pd.read_excel(io.BytesIO(decoded))
+
+# ---------------------------------
+# Store Uploaded Data
+# ---------------------------------
 @app.callback(
     Output("stored-data", "data"),
     Input("upload-data", "contents"),
     State("upload-data", "filename"),
+    prevent_initial_call=True,
 )
 def store_data(contents, filename):
-    if contents:
-        df = parse_upload(contents, filename)
-        return df.to_dict("records")
-    return None
+    df = parse_contents(contents, filename)
+    return df.to_dict("records")
 
-
+# ---------------------------------
+# Populate ALL Slicers (FIXED)
+# ---------------------------------
 @app.callback(
-    Output("kpi-cards", "children"),
-    Output("line-chart", "figure"),
-    Output("donut-chart", "figure"),
-    Output("bar-chart", "figure"),
-    Output("area-chart", "figure"),
-    Output("kpi-table", "data"),
-    Output("kpi-table", "columns"),
-    Output("bu-filter", "options"),
+    Output("business-unit-filter", "options"),
     Output("kpi-filter", "options"),
+    Output("week-filter", "options"),
     Input("stored-data", "data"),
-    Input("bu-filter", "value"),
-    Input("kpi-filter", "value"),
 )
-def update_dashboard(data, bu, kpi):
+def populate_filters(data):
     if not data:
-        return [], {}, {}, {}, {}, [], [], [], []
+        return [], [], []
+
+    df = pd.DataFrame(data)
+
+    return (
+        [{"label": i, "value": i} for i in sorted(df["business_unit"].dropna().unique())],
+        [{"label": i, "value": i} for i in sorted(df["kpi_name"].dropna().unique())],
+        [{"label": i, "value": i} for i in sorted(df["week"].dropna().unique())],
+    )
+
+# ---------------------------------
+# Dashboard + Table
+# ---------------------------------
+@app.callback(
+    Output("kpi-trend", "figure"),
+    Output("kpi-comparison", "figure"),
+    Output("event-distribution", "figure"),
+    Output("event-volume", "figure"),
+    Output("kpi-event-scatter", "figure"),
+    Output("kpi-matrix", "figure"),
+    Output("total-kpi-card", "children"),
+    Output("avg-kpi-card", "children"),
+    Output("total-events-card", "children"),
+    Output("data-table", "data"),
+    Output("data-table", "columns"),
+    Input("stored-data", "data"),
+    Input("business-unit-filter", "value"),
+    Input("kpi-filter", "value"),
+    Input("week-filter", "value"),
+)
+def update_dashboard(data, bu, kpi, week):
+    if not data:
+        return [{}] * 6 + ["", "", "", [], []]
 
     df = pd.DataFrame(data)
 
@@ -180,47 +214,91 @@ def update_dashboard(data, bu, kpi):
         df = df[df["business_unit"].isin(bu)]
     if kpi:
         df = df[df["kpi_name"].isin(kpi)]
+    if week:
+        df = df[df["week"].isin(week)]
 
-    cards = [
-        html.Div(f"{df['kpi_value'].sum():,.2f}", className="card", style={"background": "#1E3A70", "padding": "20px"}),
-        html.Div(f"{df['kpi_value'].mean():,.2f}", className="card", style={"background": "#1E3A70", "padding": "20px"}),
-        html.Div(f"{df['event_count'].sum():,}", className="card", style={"background": "#1E3A70", "padding": "20px"}),
-        html.Div(f"{df['week'].nunique()}", className="card", style={"background": "#1E3A70", "padding": "20px"}),
-    ]
-
-    line = px.line(df, x="week", y="kpi_value", color="business_unit")
-    donut = px.pie(df, names="business_unit", values="kpi_value", hole=0.5)
-    bar = px.bar(df, x="kpi_value", y="business_unit", color="kpi_name", orientation="h")
-    area = px.area(df, x="week", y="event_count", color="event_type")
-
-    return (
-        cards,
-        line,
-        donut,
-        bar,
-        area,
-        df.to_dict("records"),
-        [{"name": c, "id": c} for c in df.columns],
-        [{"label": x, "value": x} for x in df["business_unit"].unique()],
-        [{"label": x, "value": x} for x in df["kpi_name"].unique()],
+    kpi_trend = px.line(
+        df.groupby(["week", "business_unit"], as_index=False)["kpi_value"].sum(),
+        x="week", y="kpi_value", color="business_unit",
+        title="KPI Trend Over Time"
     )
 
+    kpi_comp = px.bar(
+        df.groupby(["business_unit", "kpi_name"], as_index=False)["kpi_value"].sum(),
+        x="business_unit", y="kpi_value", color="kpi_name",
+        title="KPI Comparison by Business Unit"
+    )
 
+    event_dist = px.bar(
+        df.groupby(["event_type"], as_index=False)["event_count"].sum(),
+        x="event_count", y="event_type", orientation="h",
+        title="Event Distribution"
+    )
+
+    event_vol = px.area(
+        df.groupby(["week", "event_type"], as_index=False)["event_count"].sum(),
+        x="week", y="event_count", color="event_type",
+        title="Event Volume Over Time"
+    )
+
+    scatter = px.scatter(
+        df,
+        x="event_count", y="kpi_value", color="event_type",
+        title="KPI vs Event Correlation"
+    )
+
+    matrix = px.imshow(
+        df.pivot_table(
+            index="business_unit",
+            columns="kpi_name",
+            values="kpi_value",
+            aggfunc="mean"
+        ),
+        text_auto=True,
+        title="KPI Performance Matrix"
+    )
+
+    return (
+        kpi_trend,
+        kpi_comp,
+        event_dist,
+        event_vol,
+        scatter,
+        matrix,
+        f"Total KPI Value: {df['kpi_value'].sum():,.2f}",
+        f"Average KPI Value: {df['kpi_value'].mean():,.2f}",
+        f"Total Events: {df['event_count'].sum():,}",
+        df.to_dict("records"),
+        [{"name": c, "id": c} for c in df.columns],
+    )
+
+# ---------------------------------
+# PDF Report
+# ---------------------------------
 @app.callback(
-    Output("report-status", "children"),
-    Input("report-btn", "n_clicks"),
+    Output("pdf-download", "data"),
+    Input("pdf-btn", "n_clicks"),
     State("stored-data", "data"),
+    prevent_initial_call=True,
 )
-def create_report(n, data):
-    if n and data:
-        df = pd.DataFrame(data)
-        generate_insight_report(df)
-        return html.A("Download KPI Report", href="/kpi_report.txt", download="KPI_Report.txt")
-    return ""
+def generate_pdf(_, data):
+    df = pd.DataFrame(data)
+    buffer = io.BytesIO()
+    doc = SimpleDocTemplate(buffer)
+    styles = getSampleStyleSheet()
 
+    doc.build([
+        Paragraph("ETL KPI & Event Analytics Report", styles["Title"]),
+        Paragraph(f"Total KPI Value: {df['kpi_value'].sum():,.2f}", styles["Normal"]),
+        Paragraph(f"Average KPI Value: {df['kpi_value'].mean():,.2f}", styles["Normal"]),
+        Paragraph(f"Total Events: {df['event_count'].sum():,}", styles["Normal"]),
+    ])
 
-# -----------------------------
-# Run App
-# -----------------------------
+    buffer.seek(0)
+    return dcc.send_bytes(buffer.read(), "ETL_KPI_Report.pdf")
+
+# ---------------------------------
+# Run
+# ---------------------------------
 if __name__ == "__main__":
     app.run(debug=True)
